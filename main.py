@@ -526,7 +526,7 @@ elif test_vector[0]==3:
 #teacher_interaction = int(input("Enter teacher interaction (0 for good, 1 for moderate, 2 for nill): "))
 #cognitive_development = int(input("Enter cognitive development (0 for excellent, 1 for good, 2 for low): "))
 #technology_influence = int(input("Enter technology influence (0 for addicted, 1 for moderate, 2 for no usage): "))
-#social_media_influence = int(input("Enter social media influence (0 for inactive, 1 for moderately active, 2 for over active): "))
+#online_class_attentivity = int(input("Enter social media influence (0 for inactive, 1 for moderately active, 2 for over active): "))
 #extra_curricular_involvement = int(input("Enter involvement in extra-curricular activities (0 for never, 1 for regularly, 2 for sometimes): "))
 
 # Apply the input to the model
@@ -535,7 +535,7 @@ elif test_vector[0]==3:
 #                                  practice_sport, attendance, homework_completion, academic_score, 
 #                                  attentivity_in_class, behavioral_patterns, self_esteem, socially_skills, 
 #                                  teacher_interaction, cognitive_development, technology_influence, 
-#                                  social_media_influence, extra_curricular_involvement]])
+#                                  online_class_attentivity, extra_curricular_involvement]])
 
 # Interpret the prediction and provide output to the user
 #print("---------------------")
