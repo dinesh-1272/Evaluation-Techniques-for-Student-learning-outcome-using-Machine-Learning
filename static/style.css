@@ -1,0 +1,118 @@
+/* Resetting default browser styles */
+* {
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Body styles */
+body {
+    font-family:'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #000;
+}
+
+/* Container styles */
+.container {
+    position: relative;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #000;
+    box-shadow: 0 0 50px #0ef;
+    border-radius: 20px;
+}
+.container:hover{
+    animation: animate 1s linear infinite;
+}
+
+@keyframes animate {
+    100%{
+        filter:hue-rotate(360deg);
+    }    
+}
+
+/* Form container styles */
+.form-container {
+    background-color: #000;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgb(255, 252, 252);
+}
+
+.column-con{
+    float: left;
+    width: calc(33.33% - 20px);
+    margin-right: 20px;
+    box-sizing: border-box;
+}
+
+/* Heading styles */
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #000;
+    font-size: 30px;
+    background-color: #0ef;
+    box-shadow: 0 0 10px;
+    border-radius: 30px;
+}
+
+/* Label styles */
+label {
+    font-weight: bold;
+    left: 5px;
+    color: #fff;
+    font-size: 16px;
+}
+
+/* Input and select styles */
+input[type="text"],
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    transition: border-color 0.3s ease;
+}
+
+input[type="text"]:focus,
+select:focus {
+    border-color: #007bff;
+}
+
+/* Button styles */
+button {
+    width:100%;
+    padding: 10px;
+    background: #0ef;
+    box-shadow: 0 0 10px;
+    font-size: 16px;
+    color: #000;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 30px;
+    border: none;
+    border: none;
+    outline: none;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Hover animations */
+.con:hover label {
+    color: #007bff;
+}
+
+.con:hover input[type="text"],
+.con:hover select {
+    border-color: #007bff;
+}

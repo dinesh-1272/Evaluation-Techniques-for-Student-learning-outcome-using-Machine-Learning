@@ -1,0 +1,713 @@
+Age,Gender,Class,Size of Family,Father education,Mother education,Father Occupation,Mother Occupation,Health Issues,ParentMaritalStatus,PracticeSport,Attendance,Homework completion,Academic Score,Attentivity in Class,Behavioral Patterns,Performance,Self-Esteem,Socially Skills,Teacher Interaction,Cognitive Development,Technology Influence,Social Media Influence,Involved in Extra-Curricular
+10,M,5,3,Graduate,Graduate,Private,Private,N,Married,Regularly,95%,Always,45,Good,Calm,Poor,Low,Active,Good,Good,No Usage,Inactive,Regularly
+10,F,5,4,Post Graduate,High school,Private,Private,N,Married,Regularly,88%,Always,89,Good,Calm,Excellent,Confident,Active,Good,Excellent,No Usage,Inactive,Regularly
+10,F,5,5,Graduate,Graduate,Government,Private,N,Married,Regularly,93%,Always,75,Good,Calm,Good,Confident,Active,Good,Good,No Usage,Inactive,Regularly
+10,M,5,4,Post Graduate,High school,Government,Government,N,Married,Regularly,89%,Always,76,Good,Calm,Good,Confident,Active,Good,Good,No Usage,Inactive,Regularly
+10,M,5,3,Graduate,Graduate,Self Employed,Self Employed,N,Married,Regularly,85%,Always,52,Moderate,Calm,Poor,Confident,Active,Good,Good,No Usage,Inactive,Regularly
+10,M,5,2,Post Graduate,High school,Self Employed,Self Employed,N,Widow,Regularly,90%,Sometimes,58,Moderate,Disturbed,Poor,Confident,Active,Good,Good,No Usage,Inactive,Regularly
+10,F,5,3,Graduate,Graduate,Private,Private,N,Married,Regularly,92%,Always,91,Good,Calm,Excellent,Confident,Active,Good,Excellent,No Usage,Inactive,Regularly
+10,M,5,4,Post Graduate,High school,Private,Private,N,Married,Regularly,87%,Always,55,Moderate,Disturbed,Poor,Over Confident ,Active,Good,Good,Moderate,Inactive,Regularly
+10,F,5,3,Graduate,Graduate,Government,Private,N,Married,Regularly,88%,Always,64,Good,Calm,Average,Confident,Active,Good,Good,No Usage,Inactive,Regularly
+10,F,5,2,Post Graduate,High school,Government,Government,N,Widow,Regularly,91%,Always,73,Good,Calm,Good,Confident,Active,Good,Good,No Usage,Inactive,Regularly
+10,M,5,5,Graduate,Graduate,Self Employed,Self Employed,N,Married,Regularly,87%,Always,78,Good,Calm,Good,Confident,Active,Good,Good,No Usage,Inactive,Regularly
+10,M,5,3,Post Graduate,High school,Self Employed,Self Employed,N,Married,Regularly,89%,Always,58,Good,Disturbed,Poor,Confident,Active,Good,Good,No Usage,Inactive,Regularly
+10,M,5,4,Graduate,Graduate,Private,Private,N,Married,Regularly,80%,Always,84,Good,Calm,Excellent,Confident,Active,Good,Good,No Usage,Inactive,Regularly
+10,F,5,3,Post Graduate,High school,Private,Private,N,Married,Regularly,92%,Always,87,Good,Calm,Excellent,Low,Active,Good,Good,No Usage,Inactive,Regularly
+10,F,5,4,Graduate,Graduate,Government,Private,N,Married,Regularly,98%,Always,68,Good,Calm,Average,Confident,Active,Good,Average,No Usage,Inactive,Regularly
+10,F,5,5,Post Graduate,High school,Government,Government,N,Married,Regularly,96%,Sometimes,67,Good,Disturbed,Average,Confident,Active,Good,Average,Moderate,Inactive,Regularly
+10,M,5,4,Graduate,Graduate,Self Employed,Self Employed,N,Married,Regularly,93%,Always,70,Good,Calm,Average,Confident,Active,Good,Good,No Usage,Inactive,Regularly
+10,F,5,4,Post Graduate,High school,Self Employed,Self Employed,N,Married,Regularly,63%,Always,78,Good,Calm,Good,Confident,Active,Good,Good,Moderate,Inactive,Regularly
+10,F,5,3,Graduate,Graduate,Private,Private,N,Married,Regularly,88%,Always,74,Good,Calm,Good,Confident,Active,Good,Good,No Usage,Inactive,Regularly
+10,M,5,4,Post Graduate,High school,Private,Private,N,Married,Regularly,90%,Always,80,Good,Calm,Good,Confident,Active,Good,Excellent,No Usage,Inactive,Regularly
+10,M,5,3,Graduate,Graduate,Government,Private,N,Married,Regularly,95%,Always,56,Moderate,Calm,Poor,Confident,Active,Good,Good,No Usage,Inactive,Regularly
+10,F,5,4,Post Graduate,High school,Government,Government,N,Married,Regularly,92%,Always,60,Good,Calm,Poor,Confident,Active,Good,Good,No Usage,Inactive,Regularly
+10,M,5,5,Graduate,Graduate,Self Employed,Self Employed,N,Married,Regularly,97%,Sometimes,48,Moderate,Calm,Poor,Low,Active,Good,Average,No Usage,Inactive,Regularly
+10,F,5,6,Post Graduate,High school,Self Employed,Self Employed,N,Married,Regularly,92%,Sometimes,53,Moderate,Calm,Poor,Low,Moderately Active,Good,Good,No Usage,Inactive,Regularly
+10,M,5,6,Graduate,Graduate,Private,Private,N,Married,Regularly,91%,Always,60,Good,Calm,Poor,Confident,Active,Good,Average,No Usage,Inactive,Regularly
+10,M,5,5,Post Graduate,High school,Private,Private,N,Married,Regularly,95%,Always,69,Good,Calm,Average,Confident,Active,Good,Good,No Usage,Inactive,Regularly
+10,F,5,5,Graduate,Graduate,Government,Private,N,Married,Regularly,89%,Always,70,Good,Calm,Average,Confident,Active,Good,Good,No Usage,Inactive,Regularly
+10,F,5,3,Post Graduate,High school,Government,Government,N,Married,Regularly,87%,Always,86,Good,Calm,Excellent,Confident,Active,Good,Excellent,No Usage,Inactive,Regularly
+10,M,5,3,Graduate,Graduate,Self Employed,Self Employed,N,Married,Regularly,96%,Always,65,Good,Calm,Average,Low,Inactive,Moderate,Average,No Usage,Inactive,Regularly
+10,M,5,3,Post Graduate,High school,Self Employed,Self Employed,N,Married,Regularly,89%,Always,83,Good,Calm,Excellent,Confident,Active,Good,Excellent,No Usage,Inactive,Regularly
+14,M,8,3,Graduate,Graduate,,Self- Employeed,Y,Married,regularly,0.71,Always,0.67,Good,Calm,Poor,Confident,Active,Good,Excellent,Addicted,Active,Sometimes
+14,M,8,4,,,Private,Private,N,Married,regularly,0.87,Sometimes,0.4,Moderate,Disturbed,Poor,Low Confident,Active,Moderate,Average,Addicted, Active,Sometimes
+14,M,8,4,Graduate,,,,N,Married,regularly,0.61,Sometimes,0.4,Nil,Disturbed,Poor,Low Confident,Moderately Active,Moderate,Average,Moderate,Moderately Active,Never
+14,M,8,4,Graduate,,Private,Private,N,Married,regularly,0.9,Always,0.59,Moderate,Calm,Poor,Confident,Active,Moderate,Average,Moderate,Moderately Active,regularly
+14,F,8,3,,,,,N,Married,regularly,0.86,Always,0.58,Moderate,Calm,Poor,Low Confident,Inactive,Moderate,Average,Moderate,Moderately Active,Sometimes
+13,F,8,3,Graduate,Graduate,Government,Government,Y,Married,regularly,0.93,Always,0.39,Moderate,Calm,Poor,Low Confident,Moderately Active,Moderate,Average,No usage,Inactive,Sometimes
+14,F,8,,,,,,N,,regularly,0.92,Always,0.77,Good,Focused,Poor,Confident,Active,Good,Excellent,Moderate,Inactive,Regularly
+14,M,8,3,,,,Self-Employeed,N,Married,regularly,0.8,Sometimes,0.47,Moderate,Calm,Poor,Confident,Active,Moderate,Average,Addicted,Moderately Active,Sometimes
+14,F,8,4,Graduate,,Self employed,Self-Employeed,N,Married,regularly,0.94,Always,0.79,Good,Focused,Poor,Confident,Active,Good,Good,Moderate,Moderately Active,Regularly
+14,M,8,3,Graduate,Graduate,Government,Government,N,Married,regularly,0.73,Sometimes,0.46,Moderate,Disturbed,Poor,Confident,Active,Moderate,Average,Addicted,Active,Regularly
+14,M,8,4,,,Private,Private,N,Married,regularly,0.74,Sometimes,0.37,Moderate,Calm,Poor,Confident,Active,Moderate,Average,Addicted,Active,Regularly
+14,F,8,4,Graduate,,Private,Self- Employeed,N,Married,regularly,0.8,Always,0.59,Good,Calm,Poor,Confident,Active,Moderate,Average,Moderate,Active,Sometimes
+14,F,8,3,,,,,N,Married,regularly,0.75,Sometimes,0.3,Moderate,Calm,Poor,Confident,Active,Good,Average,Moderate,Active,Sometimes
+14,M,8,3,Post graduate,Post graduate,Government,Government,N,Married,regularly,0.73,Always,0.55,Good,Calm,Poor,Confident,Active,Good,Average,Moderate,Moderately Active,Sometimes
+14,F,8,,,,,Self- Employeed,N,Married,regularly,0.94,Always,0.79,Good,Focused,Poor,Confident,Active,Good,Good,No usage,Inactive,Regularly
+13,M,8,3,,Graduate,Private,,N,Married,regularly,0.82,Always,0.57,Moderate,Diaturbed,Poor,Confident,Active,Moderate,Good,Addicted,Active,Sometimes
+14,M,8,3,,,Self employed,,N,Married,regularly,0.72,Always,0.58,Good,Calm,Poor,Confident,Active,Good,Average,No usage,Inactive,Sometimes
+14,F,8,3,,,Self employed,Self- Employeed,N,,,0.63,Sometimes,0.32,Nil,Calm,Poor,Confident,Active,Moderate,Average,Moderate,Active,Never
+14,F,8,,,,,,,,,0.8,Sometimes,0.52,Moderate,Calm,Poor,Confident,Active,Moderate,Average,Moderate,Active,Sometimes
+7,F,1,3,Post graduate,High school,Self employed,Private,N ,Married ,Never ,85%,Never,78,Moderate,Hyperactive,Good,Confident,Active,Good,Good,No usage,,Sometimes
+7,M,1,3,Post graduate,High school ,Private,Self employed,N ,Married ,sometimes ,78%,Sometimes ,98,Good ,Focused,Excellent,Confident,Active,Good,Good,Moderate,,Regularly
+7,M,1,3,Diploma,Graduate,Private,Self employed,N,Married ,regular ,98%,Always ,93,Good ,Calm,Excellent,Confident,Active,Good,Good,No usage,,Sometimes
+7,M,1,3,Graduate,Post Graduate,Private,Private,N,Married,Never ,78%,Always ,67,Moderate ,Calm,Average,Confident,Active,Good,Good,Moderate,,Sometimes
+7,F,1,2,Diploma,Diploma,Private,Self employed,N ,Married,Sometimes ,67%,Never ,77,Moderate,Calm,Good,Confident,Active,Good,Good,Moderate,,Sometimes
+7,M,1,3,Post graduate,High school,Private,Private,N,Married,Regular ,98%,Sometimes ,93,Good,Calm,Excellent,Confident,Active,Good,Good,Moderate,,Sometimes
+7,M,1,3,Post graduate,Graduate,Private,Private,N,Married,Never ,94%,Always ,93,Good,Calm,Excellent,Confident,Active,Good,Good,Moderate,,Regularly
+7,F,1,2,Post graduate,Graduate,Private,Self employed,N,Married,Regular,96%,Always ,93,Good,Calm,Excellent,Confident,Active,Good,Good,Moderate,,Regularly
+7,M,1,3,Post graduate,Graduate,Private,Government,N,Married,Regular,78%,Always ,93,Good,Calm,Excellent,Confident,Active,Good,Good,Moderate,,Regularly
+7,F,1,3,Post graduate,Graduate,Private,Self employed,N,Married,Regular,56%,Always ,93,Good,Calm,Excellent,Confident,Active,Good,Good,Moderate,,Regularly
+7,F,1,3,Post graduate,Graduate,Private,Self employed,N,Married,Regular,89%,Always ,93,Good,Calm,Excellent,Confident,Active,Good,Good,No usage,,Regularly
+7,F,1,3,Post graduate,Graduate,Private,Self employed,N,Married,Regular,78%,Always ,93,Good,Calm,Excellent,Confident,Active,Good,Good,No usage,,Regularly
+7,F,1,5,Post graduate,Graduate,Private,Self employed,N,Married,Regular,77%,Always ,93,Good,Calm,Excellent,Confident,Active,Good,Good,No usage,,Regularly
+7,F,1,3,Post graduate,Graduate,Private,Self employed,N,Married,Regular,89%,Always ,93,Good,Calm,Excellent,Confident,Active,Good,Good,No usage,,Regularly
+7,F,1,3,Post graduate,Graduate,Private,Self employed,N,Married,Regular,70%,Always ,78,Good,Calm,Good,Confident,Active,Good,Good,No usage,,Regularly
+7,F,1,3,Post graduate,Graduate,Private,Self employed,N,Married,Regular,98%,Always ,88,Good,Calm,Excellent,Confident,Active,Good,Good,No usage,,Regularly
+7,M,1,3,Post graduate,Graduate,Self employed,Self employed,N,Married,Regular,98%,Always ,57,Good,Calm,Poor,Low,Active,Good,Good,No usage,,Regularly
+7,M,1,3,Post graduate,Graduate,Self employed,Self employed,N,Married,Regular,76%,Always ,80,Good,Calm,Good,Confident,Active,Good,Good,No usage,,Regularly
+7,M,1,3,Post graduate,Graduate,Private ,Self employed,N,Married,Regular,77%,Always ,74,Good,Calm,Good,Confident,Active,Good,Good,No usage,,Regularly
+7,M,1,3,Graduate,Graduate,Government,Self employed,N,Married,Regular,98%,Always ,70,Good,Calm,Average,Confident,Active,Good,Good,No usage,,Regularly
+7,M,1,3,Graduate,Graduate,Government,Self employed,N,Married,Regular,88%,Always ,80,Good,Calm,Good,Confident,Active,Good,Good,No usage,,Regularly
+7,F,1,3,Diploma,Graduate,Government,Self employed,N,Married,Regular,90%,Always ,80,Good,Calm,Good,Confident,Active,Good,Good,No usage,,Regularly
+7,F,1,3,Graduate,Graduate,Government,Self employed,N,Married,Regular,74%,Always ,80,Good,Calm,Good,Confident,Active,Good,Good,No usage,,Regularly
+7,M,1,3,Graduate,Graduate,Government,Self employed,Y,Married,Regular,85%,Always ,80,Good,Calm,Good,Confident,Active,Good,Good,No usage,,Regularly
+7,M,1,3,Graduate,Graduate,Government,Self employed,Y,Married,Regular,72%,Always ,80,Good,Calm,Good,Confident,Active,Good,Good,No usage,,Regularly
+7,M,1,3,Graduate,Graduate,Government,Self employed,Y,Married,Regular,72%,Sometimes,80,Good,Calm,Good,Confident,Active,Good,Good,No usage,,Regularly
+7,M,1,3,Graduate,Graduate,Government,Self employed,N,Married,Regular,72%,Never,80,Good,Calm,Good,Confident,Active,Good,Good,No usage,,Regularly
+7,M,1,2,Graduate,Graduate,Government,Self employed,N,Married,Regular,72%,Sometimes,80,Good,Calm,Good,Confident,Active,Good,Good,No usage,,Regularly
+7,F,1,3,Graduate,Graduate,Government,Self employed,Y,Married,Regular,72%,Sometimes,80,Good,Calm,Good,Confident,Active,Good,Good,No usage,,Regularly
+7,F,1,3,Graduate,Graduate,Government,Self employed,Y,Married,Regular,72%,Sometimes,80,Good,Calm,Good,Confident,Active,Good,Good,No usage,,Regularly
+7,M,1,3,Graduate,Graduate,Government,Self employed,N ,Married,sometimes ,72%,Sometimes,80,Good,Calm,Good,Confident,Active,Good,Good,No usage,,Regularly
+7,F,1,3,Graduate,Post Graduate,Government,Self employed,N ,Married,sometimes ,72%,Sometimes,80,Good,Calm,Good,Confident,Active,Good,Good,No usage,,Regularly
+7,M,1,3,Graduate,Post Graduate,Government,Self employed,N ,Married,sometimes ,72%,Sometimes,66,Moderate,Calm,Average,Confident,Active,Good,Good,No usage,,Regularly
+7,M,1,3,Graduate,Post Graduate,Government,Self employed,N ,Married,sometimes ,72%,Sometimes,82,Good ,Calm,Excellent,Confident,Active,Good,Good,No usage,,Regularly
+7,M,1,3,Diploma,Post Graduate,Government,Self employed,N ,Married,sometimes ,72%,Sometimes,66,Moderate,Calm,Average,Confident,Active,Good,Good,No usage,,Regularly
+7,M,1,3,Post graduate,Post Graduate,Government,Self employed,N ,Married,sometimes ,72%,Sometimes,66,Moderate,Calm,Average,Confident,Active,Good,Good,No usage,,Regularly
+7,M,1,3,Graduate,Post Graduate,Government,Self employed,N ,Married,sometimes ,72%,Sometimes,66,Moderate,Hyperactive,Average,Confident,Active,Good,Good,No usage,,Regularly
+7,F,1,3,Graduate,Post Graduate,Government,Self employed,N ,Married,sometimes ,72%,Sometimes,66,Moderate,Disturbed,Average,Confident,Active,Good,Good,No usage,,Regularly
+7,F,1,3,Graduate,Post Graduate,Self employed,Self employed,N ,Married,sometimes ,95%,Sometimes,66,Moderate,Disturbed,Average,Confident,Active,Good,Good,No usage,,Regularly
+7,F,1,3,Graduate,Post Graduate,Private,Self employed,N ,Married,sometimes ,84%,Sometimes,66,Moderate,Hyperactive,Average,Confident,Active,Good,Good,No usage,,Regularly
+7,F,1,3,Graduate,Post Graduate,Private,Self employed,N ,Married,sometimes ,73%,Sometimes,66,Moderate,Hyperactive,Average,Confident,Active,Good,Good,No usage,,Regularly
+7,F,1,3,Graduate,Post Graduate,Private,Self employed,N ,Married,sometimes ,89%,Sometimes,66,Moderate,Disturbed,Average,Confident,Active,Good,Good,No usage,,Regularly
+7,M,1,3,Graduate,Post Graduate,Private,Self employed,N ,Married,sometimes ,89%,Sometimes,95,Good ,Focused,Excellent,Confident,Active,Good,Good,No usage,,Regularly
+7,M,1,3,Graduate,Post Graduate,Private,Self employed,N ,Married,sometimes ,89%,Sometimes,76,Good ,Focused,Good,Confident,Active,Good,Good,No usage,,Regularly
+7,F,1,3,Graduate,Post Graduate,Private,Self employed,N ,Married,sometimes ,89%,Sometimes,74,Good ,Focused,Good,Confident,Active,Good,Good,No usage,,Regularly
+7,F,1,3,Graduate,Post Graduate,Private,Self employed,N ,Married,sometimes ,89%,Sometimes,74,Good ,Focused,Good,Confident,Active,Good,Good,No usage,,Regularly
+7,F,1,3,Graduate,Post Graduate,Private,Self employed,N ,Married,sometimes ,89%,Sometimes,74,Good ,Focused,Good,Confident,Active,Good,Good,No usage,,Regularly
+7,M,1,3,Graduate,Post Graduate,Private,Self employed,N ,Married,sometimes ,89%,Sometimes,74,Good ,Focused,Good,Confident,Active,Good,Good,No usage,,Regularly
+7,M,1,3,Graduate,Post Graduate,Private,Self employed,N ,Married,sometimes ,89%,Sometimes,74,Good ,Focused,Good,Confident,Active,Good,Good,No usage,,Regularly
+7,F,1,3,Graduate,Post Graduate,Private,Self employed,N ,Married,sometimes ,89%,Sometimes,74,Good ,Focused,Good,Confident,Active,Good,Good,No usage,,Regularly
+10,M,5,4,Post-Graduate,Graduate,private,Government,N,Married,sometimes,95%,always,88,good,focused,Excellent,confident,active,good,excellent,moderate,moderately-active,sometimes
+10,M,5,4,Graduate,Graduate,private,Self-Employed,N,Married,sometimes,72%,sometimes,45,moderate,disturbed,Poor,low,inactive,nil,low,moderate,moderately-active,sometimes
+10,M,5,3,Post-Graduate,Graduate,Government,Self-Employed,N,Married,sometimes,76%,sometimes,38,moderate,disturbed,Poor,low,moderately-active,moderate,average,moderate,moderately-active,never
+10,F,5,3,Post-Graduate,Graduate,private,Self-Employed,N,Married,sometimes,90%,always,87,good,focused,Excellent,confident,active,good,excellent,moderate,moderately-active,sometimes
+10,M,5,3,Graduate,Graduate,private,Self-Employed,N,Married,sometimes,96%,always,75,good,focused,Good,confident,moderately-active,moderate,good,moderate,moderately-active,never
+10,M,5,3,Graduate,Graduate,private,Self-Employed,N,Married,sometimes,91%,always,76,moderate,hyperactive,Good,confident,moderately-active,moderate,average,moderate,moderately-active,never
+10,M,5,4,Post-Graduate,Graduate,Government,Government,Y,Married,never,71%,sometimes,65,good,hyperactive,Average,over-confident,moderately-active,moderate,good,addicted,over-active,never
+10,M,5,3,Post-Graduate,Graduate,Private,Self-Employed,N,Married,sometimes,78%,always,64,moderate,hyperactive,Average,confident,moderately-active,nil,average,addicted,moderately-active,sometimes
+10,F,5,3,Graduate,Graduate,Self-Employed,Self-Employed,N,Married,never,92%,always,74,good,focused,Good,confident,moderately-active,nil,good,moderate,moderately-active,sometimes
+10,F,5,3,Graduate,Graduate,private,Self-Employed,N,Married,sometimes,80%,sometimes,55,moderate,hyperactive,Poor,low,moderately-active,nil,average,addicted,moderately-active,sometimes
+10,M,5,4,Graduate,Graduate,Private,Self-Employed,N,Married,sometimes,98%,always,83,good,focused,Excellent,confident,active,good,good,moderate,moderately-active,sometimes
+10,F,5,3,Post-Graduate,Graduate,private,Self-Employed,Y,Married,never,66%,sometimes,46,moderate,calm,Poor,low,inactive,nil,low,moderate,inactive,never
+10,F,5,3,Post-Graduate,Graduate,private,Self-Employed,N,Married,regularly,97%,always,76,good,hyperactive,Good,confident,active,good,good,moderate,moderately-active,regularly
+10,M,5,3,Post-Graduate,Graduate,private,Self-Employed,N,Married,never,74%,always,66,good,calm,Average,confident,moderately-active,moderate,good,moderate,moderately-active,never
+10,M,5,3,Graduate,Graduate,private,Self-Employed,N,Married,sometimes,94%,sometimes,47,moderate,calm,Poor,low,moderately-active,nil,low,moderate,moderately-active,sometimes
+10,F,5,3,Graduate,Graduate,private,Self-Employed,N,Married,never,95%,always,68,good,calm,Average,low,moderately-active,nil,average,moderate,inactive,sometimes
+10,M,5,3,Graduate,Graduate,Self-Employed,Self-Employed,N,Married,sometimes,96%,always,62,moderate,hyperactive,Average,low,moderately-active,nil,average,moderate,over-active,sometimes
+10,M,5,3,Graduate,Graduate,Self-Employed,Self-Employed,N,Married,never,90%,always,63,moderate,hyperactive,Average,low,moderately-active,nil,average,moderate,over-active,sometimes
+10,M,5,4,Graduate,Graduate,private,Self-Employed,N,Married,never,99%,always,75,good,calm,Good,low,moderately-active,nil,good,moderate,moderately-active,never
+10,F,5,3,Post-Graduate,Graduate,private,Government,N,Married,regularly,99%,always,85,good,focused,Excellent,confident,active,good,excellent,moderate,moderately-active,regularly
+10,F,5,3,Graduate,Graduate,private,Private,N,Married,regularly,90%,always,76,good,focused,Good,confident,active,good,good,moderate,moderately-active,regularly
+10,M,5,3,Graduate,Graduate,Self-Employed,Private,N,Married,sometimes,93%,always,62,good,focused,Average,low,active,moderate,good,moderate,moderately-active,sometimes
+10,F,5,3,Post-Graduate,Graduate,private,Self-Employed,N,Married,regularly,94%,always,73,good,focused,Good,confident,moderately-active,moderate,good,moderate,moderately-active,regularly
+10,M,5,3,Post-Graduate,Graduate,private,Self-Employed,N,Married,sometimes,91%,always,87,good,hyperactive,Excellent,confident,active,good,excellent,moderate,moderately-active,sometimes
+10,F,5,3,Post-Graduate,Graduate,private,Self-Employed,N,Married,never,87%,always,67,good,calm,Average,low,moderately-active,nil,average,moderate,moderately-active,sometimes
+10,F,5,3,Graduate,Graduate,private,Self-Employed,N,Married,never,50%,always,53,moderate,calm,Poor,low,inactive,nil,average,moderate,inactive,never
+10,F,5,3,Graduate,Graduate,private,Self-Employed,N,Married,never,97%,always,78,moderate,calm,Good,low,moderately-active,nil,average,moderate,inactive,never
+10,F,5,3,Post-Graduate,Graduate,private,Self-Employed,N,Married,sometimes,96%,always,88,good,calm,Excellent,low,moderately-active,moderate,good,moderate,moderately-active,sometimes
+10,M,5,3,Post-Graduate,Graduate,private,Self-Employed,N,Married,sometimes,84%,always,76,good,focused,Good,low,moderately-active,moderate,good,addicted,moderately-active,sometimes
+12,M,7,4,Post Graduate ,Post Graduate ,Private,Self-Employed,No,Married,Regularly ,0.98,Always,0.76,Good,Aggressive,Poor,Over-Confident,Active,Moderate ,Good,Addicted ,Inactive,Regularly
+12,F,7,3,Graduate ,Post Graduate ,Private,Self-Employed,Yes,Married,Sometimes ,0.75,Always,0.86,Good,Focused,Poor,Confident ,Active,Good,Average,Moderate ,Moderately Active ,Regularly
+12,F,7,4,Post Graduate ,Post Graduate ,Private ,Self-Employed,No,Married,Regularly ,0.98,Always,0.97,Good,Hyperactive,Poor,Confident,Active,Good,Excellent,Addicted ,Over Active,Regularly 
+12,M,7,3,Post Graduate ,High School,Private,Self-Employed,Yes,Married,Sometimes ,0.75,Sometimes ,0.79,Good,Focused,Poor,Low,Active,Moderate ,Low,Addicted,Inactive,Never
+12,F,7,3,Graduate,Diploma,Private,Government ,No,Married,Regularly ,0.95,Always,0.92,Good,Focused,Poor,Confident,Active,Good,Excellent,No Usage ,Inactive,Regularly 
+12,M,7,4,Diploma,Graduate ,Private,Self-Employed,No,Married,Regularly,0.94,Always,0.85,Good,Focused,Poor,Low,Active,Moderate ,Average,Moderate ,Inactive,Never
+13,M,7,3,Graduate,Post Graduate,Private,Government ,No,Married,Regularly,0.85,Always,0.84,Good,Aggressive,Poor,Confident,Active,Good,Average,Moderate ,Moderately Active ,Regularly 
+13,M,7,4,Graduate ,High School ,Private,Self-Employed,No,Married,Regularly,0.89,Sometimes ,0.72,Moderate,Calm,Poor,Confident,Active,Good,Good,Addicted,Inactive,Regularly 
+12,F,7,4,Post Graduate ,Post Graduate ,Government ,Government ,No,Married,Regularly,0.94,Always,0.75,Good,Focused,Poor,Confident,Active,Good,Good,Moderate ,Inactive,Regularly
+12,M,7,5,Post Graduate ,Post Graduate ,Government ,Self-Employed,No,Married,Regularly,0.93,Always,0.77,Good,Calm,Poor,Over-Confident,Active,Good,Average,Addicted ,Inactive,Regularly
+12,F,7,4,Graduate ,High School,Government ,Self-Employed,Yes,Married,Regularly,0.94,Always,0.79,Good,Hyperactive,Poor,Confident,Active,Good,Good,Addicted ,Over Active,Regularly 
+12,M,7,3,Graduate,Diploma ,Government ,Self-Employed,No,Married,Regularly,0.96,Sometimes ,0.69,Moderate,Disturbed,Poor,Confident,Active,Good,Average,Addicted,Inactive,Never
+12,F,7,3,Graduate ,Graduate ,Private,Private,No,Married,Regularly,0.9,Alwyas,0.8,Good,Hyperactive,Poor,Confident,Active ,Good,Good,Moderate ,Inactive,Regularly
+12,M,7,3,Diploma,Post Graduate ,Self-Employed,Self-Employed,No,Married,Regularly,0.89,Sometimes,0.62,Moderate,Disturbed,Poor,Confident,Active,Good,Good,Moderate ,inactive,Regularly
+13,M,7,4,Graduate,Post Graduate ,Self-Employed,Self-Employed,No,Married,Regularly,0.88,Sometimes ,0.59,Good,Aggressive,Poor,Confident,Active,Good,Excellent,Addicted ,Inactive,Never
+12,M,7,3,Post Graduate ,Post Graduate ,Private,Government ,No,Married,Regularly,0.92,Always,0.86,Good,Focused,Poor,Confident ,Active,Good,Average,Moderate ,Inactive,Regularly
+12,M,7,4,Post Graduate ,Graduate ,Government ,Self-Employed,No,Married,Regularly,0.89,Always,0.73,Good,Calm,Poor,Confident,Active,Good,Average,Addicted ,Over Active,Regularly
+13,F,7,4,Diploma,Post Graduate ,Self-Employed,Government ,No,Married,Regularly,0.85,Always,0.68,Moderate,Calm,Poor,Confident,Active,Good,Average,No Usage,Inactive,Regularly
+12,M,7,4,Graduate ,Post Graduate ,Government ,Private,No,Married,Regularly,0.97,Always,0.77,Good,Calm,Poor,Confident ,Active,Good,Excellent,Addicted ,Moderately Active ,Regularly
+12,M,7,3,Graduate ,Graduate ,Government ,Self-Employed,No,Married,Regularly,0.98,Always,0.84,Good,Focused,Poor,Confident,Active,Good,Good,Addicted ,Moderately Active ,Sometimes 
+13,M,7,4,Post Graduate ,Graduate ,Government ,Self-Employed,No,Married,Regularly ,0.96,Sometimes ,0.57,Moderate,Hyperactive,Poor,Confident,Active,Good,Good,Addicted ,Inactive,Never
+13,M,7,3,Graduate ,High School ,Government ,Self-Employed,No,Married,Sometimes ,0.77,Always,0.48,Nil,Disturbed,Poor,Confident,Active,Good,Average,Addicted ,Inactive,Never
+13,M,7,3,High School,Post Graduate ,Government ,Self-Employed,No,Married,Regularly,0.84,Always,0.58,Moderate,Calm,Poor,Over-Confident,Active,Good,Average,Addicted ,Inactive,Regularly
+12,F,7,3,Graduate,Graduate ,----,Government ,No,Married,Regularly ,0.91,Always,0.86,Good,Focused,Poor,Over-Confident,Active,Good,Excellent,Moderate ,Inactive,Regularly
+13,F,7,5,Graduate ,High School ,Government ,Self-Employed,Yes,Married,Never,0.6,Always,0.69,Good,Calm,Poor,Confident,Inactive,Good,Average,Moderate ,Inactive,Never
+12,F,7,4,Diploma,Graduate ,Government ,Private ,No,Married,Regularly ,0.98,Always,0.98,Good,Focused,Poor,Confident ,Active,Good,Excellent,No Usage,Inactive ,Regularly
+12,F,7,3,Graduate ,Graduate,Government ,Private,No,Married,Regularly ,0.83,Always,0.64,Moderate,Calm,Poor,Confident,Active,Good,Average,Addicted,Over Active,Regularly 
+13,M,7,3,Diploma,Graduate ,Private,Private,No,Married,Sometimes ,0.8,Always,0.81,Good,Hyperactive,Poor,Low,Active,Moderate ,Average,Addicted,Moderately Active ,Never
+13,F,7,3,Graduate ,Graduate ,Government ,Private,No,Married,Sometimes ,0.79,Always,0.77,Good,Focused,Poor,Confident,Active,Good,Good,Addicted,Inactive ,Regularly 
+12,M,7,5,Post Graduate ,Diploma,Government ,Private,No,Married,Regularly ,0.96,Always,0.74,Good,Focused,Poor,Over-Confident,Active,Good,Good,Moderate ,Inactive ,Regularly
+12,F,7,4,Graduate ,Graduate,Self-Employed,Private,No,Married,Regularly,0.89,Always,0.45,Nil,Disturbed,Poor,Confident,Active,Good,Good,Addicted ,Over Active,Sometimes 
+13,F,7,4,Graduate ,Post Graduate ,Government ,Self-Employed,No,Married,Regularly,0.95,Always,0.55,Moderate,Calm,Poor,Low,Active,Moderate ,Average,No Usage,Inactive ,Sometimes 
+12,F,7,4,Post Graduate ,Post Graduate ,Government ,Government ,No,Married,Regularly,0.92,Always ,0.91,Good,Focused,Poor,Confident,Active,Good,Good,Moderate ,Moderately Active ,Regularly 
+13,M,7,3,Graduate ,Post Graduate ,Government ,Self-Employed,No,Married ,Regularly ,0.87,Never,0.43,Nil,Aggressive,Poor,Low,Active,Moderate,Low,No Usage,Inactive ,Never
+4,M,nur,3,Diploma ,Diploma ,government ,government ,N,married ,never ,90%,always ,95,good ,calm,Excellent,confident ,active ,good ,excellent ,moderate,inactive ,never 
+4,F,nur,3,graduation ,graduation ,government ,government ,N,married ,never ,90%,sometimes ,70,nil,calm,Average,low,inactive ,nil,good ,moderate ,inactive ,never
+4,M,nur,4,post graduation ,High-school ,government ,self employed ,N,married ,sometimes ,90%,sometimes ,97,moderate ,calm ,Excellent,low,inactive ,good ,average ,moderate ,inactive ,regularly 
+4,M,nur,3,graduation ,post graduation ,self employed ,government ,N,married ,regularly ,98%,always ,96,good ,hyperactive ,Excellent,over confident ,active,good ,good ,moderate ,inactive ,regularly 
+4,M,nur,3,High school ,High school ,self employed ,self employed ,N,married ,sometimes ,97%,always ,98,nil,focused ,Excellent,confident ,moderately active ,nil,good ,moderate ,inactive ,sometimes 
+4,M,nur,3,post graduation ,High school ,government ,self employed ,N,married ,regularly ,78%,sometimes ,85,nil,hyperactive ,Excellent,confident ,inactive ,good ,average ,moderate ,inactive ,regularly 
+4,F,nur,3,Diploma ,graduation ,government ,self employed ,N,married ,regularly ,76%,always ,89,good ,calm,Excellent,confident ,active,good ,excellent ,moderate ,inactive ,regularly 
+4,F,nur,3,Diploma ,graduation ,government ,self employed ,N,married ,sometimes ,95%,always ,99,good ,calm ,Excellent,confident ,active ,good ,excellent ,moderate ,inactive ,regularly 
+4,M,nur,4,post graduation ,Diploma ,government ,government ,N,married ,regularly ,94%,always ,98,good ,calm ,Excellent,confident ,active ,good ,excellent ,moderate ,inactive ,regularly 
+4,F,nur,3,post graduation ,High school ,government ,self employed ,N,married ,regularly ,97%,always ,98,good ,calm,Excellent,confident ,active ,good ,excellent ,moderate ,inactive ,regularly 
+4,M,nur,3,high school ,High school ,private ,self employed ,N,married ,never,80%,always ,96,nil,calm,Excellent,confident ,moderately actt,good ,good ,moderate,inactive ,never 
+6,M,nur,3,Diploma ,Diploma ,government ,government ,Y,married ,regularly ,70%,always ,42,nil,aggressive ,Poor,low,active ,nil ,good ,moderate ,inactive ,regularly 
+4,M,nur,2,post graduation ,Diploma ,government ,government ,N,married ,regularly ,88%,always ,94,good ,calm,Excellent,confident ,active ,good ,excellent ,moderate ,inactive ,regularly 
+4,F,nur,3,graduation ,graduation ,private ,self employed ,N,married ,regularly ,90%,always ,56,good ,calm ,Poor,confident ,active ,good ,good ,moderate ,inactive ,sometimes 
+4,F,nur,4,Post graduation ,Diploma ,government ,self employed ,N,married ,never,70%,always ,99,moderate ,calm ,Excellent,confident ,active ,good ,excellent ,moderate ,inactive ,never 
+4,M,nur,,post graduation ,High school ,private ,self employed ,N,married ,sometimes ,97%,always ,98,good ,calm,Excellent,confident ,active,good ,excellent ,moderate ,inactive ,regularly 
+4,F,nur,3,Diploma ,Diploma ,government ,self employed ,N,married ,never,75%,always ,67,nil,caml,Average,low,active ,nil,good ,moderate ,inactive ,sometimes 
+4,F,nur,3,graduation ,graduation ,private ,self employed ,N,married ,regularly ,90%,always ,96,good ,calm,Excellent,confident ,active ,good ,excellent ,moderate ,inactive ,regularly 
+4,M,nur,3,graduation ,High school ,private ,self employed ,N,married ,never,91%,always ,47,nil,calm,Poor,low,inactive ,good ,average ,moderate ,inactive ,never 
+4,F,nur,3,High school ,High school ,self employed ,self employed ,N,married ,regularly ,89%,always ,92,good ,calm,Excellent,over- confident ,active ,good ,good ,moderate ,inactive ,regularly 
+4,M,nur,3,High school ,High school ,private ,self employed ,N,married ,regularly ,98%,always ,64,good ,aggressive ,Average,confident ,active ,good ,good ,moderate ,inactive ,regularly 
+4,F,nur,3,graduation ,High school ,government ,government ,N,married ,sometimes ,73%,always ,97,good ,calm,Excellent,confident ,active ,good ,excellent ,moderate ,inactive ,regularly 
+4,F,nur,3,High school ,High school ,private ,self employed ,N,married ,regularly ,97%,always ,99,good ,calm ,Excellent,confident ,active ,good ,excellent ,moderate ,inactive ,regularly 
+4,M,nur,3,graduation ,High school ,private ,self employed ,N,married ,sometimes ,80%,always ,55,moderate ,calm,Poor,confident ,active ,good ,average ,moderate ,inactive ,regularly 
+4,M,nur,3,Diploma ,post graduation ,government ,government ,N,married ,never,96%,always ,67,good ,calm,Average,low,inactive ,good ,good ,moderate ,inactive ,sometimes 
+4,M,nur,3,graduation ,Diploma ,government ,government ,N,married ,regularly ,71%,always ,50,moderate ,calm,Poor,low,active ,good ,average ,moderate ,inactive ,sometimes 
+4,M,nur,3,High school ,High school ,private ,private ,N,married ,regularly ,90%,sometimes ,70,good ,hyperactive ,Average,over- confident ,active,nil,average ,moderate ,inactive ,regularly 
+4,F,nur,3,Diploma ,Diploma ,government ,private ,N,married ,regularly ,93%,always ,99,good ,focused ,Excellent,over- confident ,,good ,excellent ,moderate ,inactive ,regularly 
+4,M,nur,3,graduation ,post graduation ,private ,government ,N,married ,sometimes ,92%,always ,90,good ,calm,Excellent,confident ,,good ,good ,moderate ,inactive ,regularly 
+4,M,nur,4,Diploma ,Diploma ,government ,government ,N,married ,sometimes ,89%,always ,40,nil,calm,Poor,low,,good ,average ,moderate ,inactive ,never
+4,F,nur,4,Diploma ,Diploma ,government ,government ,N,married ,sometimes ,78%,always ,41,nil,calm,Poor,low,,good ,average ,moderate ,inactive ,never
+5,M,nur,3,post graduation ,post graduation ,government ,private ,N,married ,regularly ,90%,sometimes ,40,nil,calm,Poor,low,,good ,average ,moderate ,inactive ,regularly 
+4,M,nur,3,Diploma ,Diploma ,government ,government ,N,married ,regularly ,71%,always ,44,nil ,calm,Poor,low,,good ,average ,moderate ,inactive ,neve
+4,F,nur,3,High school ,graduation ,self employed ,self employed ,N,married ,regularly ,96%,always ,99,good ,aggressive ,Excellent,confident ,,nil,excellent ,moderate ,inactive ,regularly 
+4,F,nur,3,post graduation ,High school ,private ,self employed ,N,married ,regularly ,98%,always ,40,moderate ,aggressive ,Poor,low,,nil,average ,moderate,inactive ,regularly 
+5,F,nur,3,Diploma ,graduation ,government ,self employed ,N,married ,sometimes ,89%,always ,99,good ,calm,Excellent,confident ,,good ,excellent ,moderate ,inactive ,regularly 
+4,F,nur,3,graduation ,High school ,self employed ,self employed ,N,married ,never ,72%,sometimes ,4,nil,calm ,Poor,low,,good ,low,moderate ,inactive ,never
+4,M,nur,3,Diploma ,Post graduation ,government ,self employed ,N,married ,never,70%,sometimes ,50,nil,calm,Poor,low,,good ,average ,moderate ,inactive ,never
+4,M,nur,3,post graduation ,Diploma ,government ,government ,N,married ,regularly ,98%,always ,92,good , hyperactive ,Excellent,over- confident ,,nil,excellent ,moderate ,inactive ,regularly 
+4,M,nur,3,post graduation ,Diploma ,private ,self employed ,N,married ,regularly ,98%,always ,80,good ,aggressive ,Good,confident ,,good ,excellent ,moderate ,inactive ,regularly 
+4,M,nur,3,graduation ,High school ,private ,self employed ,N,married ,regularly ,98%,sometimes ,40,nil,calm,Poor,low,,good ,average ,moderate ,inactive ,regularly 
+4,M,nur,3,post graduation ,Diploma ,government ,private ,N,married ,regularly ,99%,always ,99,good ,calm ,Excellent,confident ,,good ,excellent ,moderate ,inactive ,regularly 
+4,F,nur,3,High school ,High school ,government ,self employed ,N,married ,sometimes ,70%,sometimes ,10,nil,calm ,Poor,low,,good ,low,moderate ,inactive ,regularly 
+5,F,nur,3,Diploma ,graduation ,government ,self employed ,N,married ,never,70%,always ,100,good ,calm,Excellent,confident ,,good ,excellent ,moderate ,inactive ,regularly 
+4,M,nur,4,graduation ,post graduation ,private ,self employed ,N,married ,regularly ,88%,always ,74,moderate ,hyperactive ,Good,confident ,,good ,good ,moderate ,inactive ,regularly 
+4,F,nur,4,High school ,graduation ,private ,private ,N,married ,regularly ,98%,always ,79,moderate ,calm,Good,confident ,,good ,excellent ,moderate ,inactive ,regularly 
+4,F,nur,3,post graduation ,graduation ,government ,self employed ,N,married ,never,96%,always ,89,moderate ,calm ,Excellent,confident ,,good ,excellent ,. moderate ,inactive ,sometimes 
+4,F,nur,3,Diploma ,Diploma ,private ,government ,N,married ,regularly ,98%,always ,99,good ,focused ,Excellent,over- confide,,good ,excellent ,moderate ,inactive ,regularly 
+4,F,nur,3,graduation ,High school ,private ,self employed ,N,married ,regularly ,98%,always ,99,moderate ,calm,Excellent,confident ,,good ,good ,moderate ,inactive ,regularly 
+4,F,nur,4,graduation ,graduation ,private ,self employed ,N,married ,sometimes ,70%,sometimes ,6,nil,calm ,Poor,low,,good ,low,moderate ,inactive ,regularly 
+5,F,nur,3,graduation ,High  school ,government ,self employed ,N,married ,regularly ,99%,always ,80,moderate ,aggressive ,Good,confident ,,nill,good ,moderate ,inactive ,regularly 
+4,F,nur,4,graduation ,High school ,private ,High school ,N,married ,sometimes ,40%,never,3,nil,calm,Poor,low,,nil,low,moderate ,inactive ,regularly 
+4,M,nur,3,post graduation ,Diploma ,government ,self employed ,N,married ,never,95%,always ,93,good ,calm ,Excellent,confident ,,good ,good ,moderate ,inactive ,regularly 
+4,F,nur,3, High school ,High ,private ,self employed ,N,married ,sometimes ,75%,sometimes ,40,nil,calm ,Poor,low,,good ,average ,moderate ,inactive ,regularly 
+9,F,4,3,Post-Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,93%,Always,93,Good,Focused,Excellent,Confident,Active,Good,Good,Modeerate,Inactive,Sometimes
+9,F,4,4,Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,92%,Always,65,Moderate,Calm,Average,Low,Active,Moderate,Average,Modeerate,Inactive,Never
+9,M,4,3,Post-Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,99%,Always,90,Good,Focused,Excellent,Confident,Active,Good,Good,Modeerate,Inactive,Never
+9,M,4,4,Graduate,Graduate,Private,Self Employed,No,Married,Regularly,79%,Never,35,Nil,Disturbed,Poor,Low,Inactive,Nil,Low,Modeerate,Inactive,Regular
+9,F,4,4,Graduate,Graduate,Private,Service,No,Married,Sometimes,81%,Always,75,Moderate,Calm,Good,Low,Active,Moderate,Average,Modeerate,Inactive,Never
+9,F,4,4,Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,69%,Always,55,Moderate,Calm,Poor,Low,Active,Moderate,Average,Addicted,Inactive,Never
+9,M,4,4,Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,98%,Always,94,Good,Focused,Excellent,Confident,Active,Good,Excellent,No Usage,Inactive,Never
+9,F,4,3,Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,88%,Always,56,Moderate,Hyperactive,Poor,Low,Active,Moderate,Average,Modeerate,Inactive,Never
+9,M,4,4,Post-Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,85%,Always,78,Good,Calm,Good,Confident,Active,Good,Average,Modeerate,Inactive,Never
+9,M,4,3,Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,62%,Always,54,Moderate,Calm,Poor,Low,Moderately Active,Moderate,Average,Modeerate,Inactive,Never
+9,F,4,4,Graduate,Graduate,Private,Service,No,Married,Sometimes,93%,Sometimes,52,Nil,Calm,Poor,Low,Active,Nil,Low,Modeerate,Inactive,Never
+9,F,4,3,Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,64%,Always,55,Moderate,Calm,Poor,Low,Moderately Active,Moderate,Average,Modeerate,Inactive,Never
+9,M,4,4,Post-Graduate,Post-Graduate,Private,Self Employed,No,Married,Regularly,93%,Always,89,Good,Focused,Excellent,Confident,Active,Good,Good,Modeerate,Inactive,Never
+9,M,4,3,Graduate,Graduate,Private,Self Employed,No,Married,Regularly,95%,Always,88,Good,Focused,Excellent,Confident,Active,Good,Good,Modeerate,Inactive,Never
+9,M,4,3,Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,95%,Always,78,Good,Focused,Good,Confident,Active,Good,Good,Modeerate,Inactive,Never
+9,F,4,4,Post-Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,89%,Always,77,Good,Calm,Good,Confident,Active,Good,Good,Modeerate,Inactive,Sometimes
+9,F,4,4,Post-Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,89%,Always,76,Good,Calm,Good,Confident,Moderately Active,Good,Good,Modeerate,Inactive,Sometimes
+9,M,4,4,Graduate,Graduate,Government,Self Employed,No,Married,Sometimes,87%,Always,66,Moderate,Hyperactive,Average,Over Confident,Active,Moderate,Average,Modeerate,Inactive,Never
+9,M,4,4,Post-Graduate,Post-Graduate,Self-Employed,Service,No,Married,Regularly,89%,Always,79,Good,Focused,Good,Confident,Active,Good,Good,Modeerate,Inactive,Regular
+9,M,4,5,Graduate,Graduate,Self-Employed,Self Employed,No,Married,Sometimes,85%,Always,78,Good,Hyperactive,Good,Over Confident,Active,Good,Good,Modeerate,Inactive,Never
+9,F,4,3,Graduate,Graduate,Private,Service,No,Married,Sometimes,80%,Always,45,Moderate,Calm,Poor,Low,Moderately Active,Moderate,Average,Modeerate,Inactive,Never
+9,F,4,4,Post-Graduate,Post-Graduate,Private,Self Employed,No,Married,Sometimes,96%,Always,88,Good,Focused,Excellent,Confident,Active,Good,Good,No usage,Inactive,Regular
+9,F,4,3,Post-Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,92%,Always,78,Moderate,Calm,Good,Low,Active,Moderate,Average,Modeerate,Inactive,Never
+9,F,4,4,Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,99%,Always,95,Good,Focused,Excellent,Confident,Active,Good,Excellent,No Usage,Inactive,Never
+9,M,4,4,Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,99%,Always,79,Moderate,Calm,Good,Confident,Active,Moderate,Good,Modeerate,Inactive,Never
+9,M,4,4,Post-Graduate,Post-Graduate,Private,Service,No,Married,Sometimes,89%,Always,68,Moderate,Hyperactive,Average,Confident,Active,Moderate,Average,Modeerate,Inactive,Never
+9,M,4,3,Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,85%,Always,66,Moderate,Calm,Average,Confident,Active,Moderate,Good,Modeerate,Inactive,Never
+9,F,4,3,Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,92%,Always,87,Good,Focused,Excellent,Confident,Active,Good,Good,Modeerate,Inactive,Regular
+9,F,4,3,Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,82%,Sometimes,36,Nil,Calm,Poor,Low,Inactive,Nil,Low,Modeerate,Inactive,Sometimes
+9,F,4,5,Post-Graduate,Post-Graduate,Private,Service,No,Married,Sometimes,89%,Always,87,Good,Focused,Excellent,Confident,Active,Good,Good,No Usage,Inactive,Sometimes
+9,M,4,4,Post-Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,95%,Always,75,Moderate,Disturbed,Good,Low,Inactive,Moderate,Average,No Usage,Inactive,Never
+9,M,4,4,Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,96%,Sometimes,50,Moderate,Calm,Poor,Over Confident,Active,Moderate,Average,Modeerate,Inactive,Never
+9,M,4,3,Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,89%,Always,37,Nil,Calm,Poor,Low,Moderately Active,Nil,Low,Modeerate,Inactive,Never
+9,M,4,4,Post-Graduate,Graduate,Private,Self Employed,No,Married,Regularly,95%,Always,45,Moderate,Hyperactive,Poor,Over Confident,Active,Moderate,Average,Modeerate,Inactive,Regular
+9,M,4,3,Post-Graduate,Graduate,Private,Self Employed,No,Married,Regularly,96%,Always,96,Good,Hyperactive,Excellent,Confident,Active,Good,Excellent,No Usage,Inactive,Never
+9,M,4,7,Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,97%,Always,75,Moderate,Calm,Good,Low,Active,Moderate,Average,Modeerate,Inactive,Never
+9,M,4,3,Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,98%,Always,79,Moderate,Calm,Good,Confident,Active,Moderate,Average,Modeerate,Inactive,Never
+9,M,4,3,Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,98%,Always,55,Moderate,Calm,Poor,Low,Active,Moderate,Average,Modeerate,Inactive,Never
+9,F,4,3,Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,95%,Always,57,Moderate,Calm,Poor,Low,Active,Moderate,Average,Modeerate,Inactive,Never
+9,F,4,5,Post-Graduate,Post-Graduate,Private,Self Employed,No,Married,Sometimes,92%,Always,89,Good,Hyperactive,Excellent,Over Confident,Active,Good,Excellent,No Usage,Inactive,Never
+9,F,4,5,Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,90%,Always,68,Moderate,Calm,Average,Confident,Active,Moderate,Average,Modeerate,Inactive,Never
+9,F,4,6,Post-Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,95%,Always,93,Good,Focused,Excellent,Confident,Active,Good,Excellent,No Usage,Inactive,Never
+9,M,4,3,Post-Graduate,Graduate,Private,Self Employed,No,Married,Sometimes,90%,Always,88,Good,Focused,Excellent,Confident,Active,Good,Good,No Usage,Inactive,Never
+4,F,N,4,Post Graduate,Graduate,Private,Self Employeed,N,married,regularly,95%,always,82,good,focused,Excellent,confident,active,good,GOOD,moderate,inactive,sometimes
+4,M,N,6,Graduate,Graduate,Private,Self Employeed,N,married,regularly,95%,always,60,moderate,calm,Poor,low,moderately active,moderate,AVERAGE,moderate,inactive,never
+5,M,N,4,Post Graduate,Graduate,Private,Self Employeed,N,married,Sometimes,86%,always,39,nil,disturbed,Poor,low,moderately active,moderate,LOW,moderate,inactive,never
+5,F,N,4,Post Graduate,Post Graduate,Private,Self Employeed,N,married,regularly,98%,always,90,good,focused,Excellent,confident,active,good,GOOD,moderate,inactive,sometimes
+4,M,N,4,Graduate,Graduate,Private,Self Employeed,N,married,regularly,95%,always,55,moderate,calm,Poor,low,moderately active,moderate,AVERAGE,moderate,inactive,sometimes
+4,F,N,3,Graduate,Graduate,Private,Private,N,married,Sometimes,75%,always,38,nil,disturbed,Poor,low,inactive,nil,LOW,moderate,inactive,never
+4,M,N,3,Graduate,Graduate,Private,Self Employeed,N,married,regularly,80%,always,87,moderate,calm,Excellent,low,inactive,moderate,AVERAGE,moderate,inactive,sometimes
+4,M,N,5,Post Graduate,Post Graduate,Government,Government,N,married,regularly,96%,always,87,good,calm,Excellent,low,moderately active,moderate,AVERAGE,moderate,inactive,sometimes
+4,M,N,5,Graduate,Graduate,Private,Self Employeed,N,married,regularly,96%,always,95,good,focused,Excellent,confident,active,good,GOOD,moderate,inactive,sometimes
+4,M,N,5,Graduate,Graduate,Government,Self Employeed,N,married,Sometimes,65%,always,95,moderate,hyper active,Excellent,over-confident,moderately active,moderate,GOOD,moderate,inactive,sometimes
+4,F,N,3,Graduate,Graduate,Private,Self Employeed,N,married,regularly,96%,always,45,good,focused,Poor,low,active,good,LOW,moderate,inactive,sometimes
+4,M,N,3,Graduate,Graduate,Private,Self Employeed,N,married,regularly,98%,always,98,good,focused,Excellent,confident,moderately active,nil,EXCELLENT,moderate,inactive,sometimes
+4,M,N,3,Graduate,Post Graduate,Private,Private,N,married,regularly,76%,always,98,good,focused,Excellent,confident,active,good,EXCELLENT,moderate,inactive,sometimes
+4,F,N,3,Graduate,Graduate,Private,Self Employeed,N,married,regularly,76%,always,45,moderate,calm,Poor,low,inactive,moderate,LOW,moderate,inactive,sometimes
+4,M,N,3,Graduate,Graduate,Government,Government,N,married,Sometimes,90%,always,20,nil,disturbed,Poor,low,inactive,good,LOW,moderate,inactive,sometimes
+4,M,N,5,Post Graduate,Post Graduate,Private,Private,N,married,regularly,96%,always,98,good,focused,Excellent,confident,active,good,EXCELLENT,moderate,inactive,sometimes
+4,F,N,3,Graduate,Graduate,Private,Government,N,married,regularly,97%,always,98,good,hyper active,Excellent,confident,active,good,EXCELLENT,moderate,inactive,Regularly
+4,M,N,4,Graduate,Graduate,Private,Self Employeed,N,married,Sometimes,78%,always,50,moderate,hyper active,Poor,low,moderately active,good,AVERAGE,moderate,inactive,sometimes
+4,M,N,3,Graduate,Graduate,Private,Self Employeed,N,married,regularly,76%,always,45,moderate,calm,Poor,low,moderately active,moderate,LOW,moderate,inactive,sometimes
+4,F,N,3,Post Graduate,Graduate,Private,Private,N,married,regularly,97%,always,96,good,hyper active,Excellent,over-confident,active,good,EXCELLENT,moderate,inactive,Regularly
+4,F,N,3,Post Graduate,Post Graduate,Private,Government,N,married,regularly,98%,always,98,good,focused,Excellent,confident,active,good,EXCELLENT,moderate,inactive,Regularly
+4,M,N,3,Graduate,Graduate,Private,Self Employeed,N,married,Sometimes,76%,always,20,moderate,disturbed,Poor,low,inactive,moderate,LOW,moderate,inactive,sometimes
+4,F,N,4,Graduate,Post Graduate,Private,Private,N,married,regularly,90%,always,75,good,hyper active,Good,confident,active,good,GOOD,moderate,inactive,Regularly
+4,M,N,3,Graduate,Post Graduate,Government,Government,N,married,regularly,98%,always,98,good,focused,Excellent,confident,active,good,EXCELLENT,moderate,inactive,sometimes
+4,M,N,4,Post Graduate,Post Graduate,Private,Self Employeed,N,married,regularly,80%,always,95,good,focused,Excellent,confident,active,good,GOOD,moderate,inactive,sometimes
+4,F,N,3,Graduate,Graduate,Private,Self Employeed,N,married,regularly,92%,always,65,good,focused,Average,confident,active,good,AVERAGE,moderate,inactive,sometimes
+4,F,N,3,Graduate,Graduate,Private,Private,N,married,regularly,90%,always,90,good,focused,Excellent,confident,active,good,GOOD,moderate,inactive,sometimes
+4,F,N,5,Post Graduate,Post Graduate,Government,Private,N,married,regularly,95%,always,98,good,focused,Excellent,confident,active,good,EXCELLENT,moderate,inactive,sometimes
+4,M,N,3,Graduate,Graduate,Government,Self Employeed,N,married,regularly,97%,always,90,good,focused,Excellent,confident,active,good,GOOD,moderate,inactive,sometimes
+4,F,N,3,Graduate,Graduate,Private,Self Employeed,N,married,regularly,89%,always,90,good,focused,Excellent,confident,active,good,GOOD,moderate,inactive,sometimes
+4,F,N,6,Graduate,Graduate,Private,Self Employeed,N,married,regularly,90%,always,98,good,focused,Excellent,confident,active,good,GOOD,moderate,inactive,sometimes
+4,F,N,3,Graduate,Graduate,Private,Self Employeed,N,married,regularly,90%,always,60,good,focused,Poor,low,active,good,AVERAGE,moderate,inactive,sometimes
+4,M,N,3,Graduate,Graduate,Private,Self Employeed,N,married,regularly,88%,always,65,good,focused,Average,low,active,good,AVERAGE,moderate,inactive,sometimes
+4,M,N,5,Graduate,High School,Private,Self Employeed,N,married,regularly,90%,always,65,good,focused,Average,low,active,moderate,AVERAGE,moderate,inactive,sometimes
+4,M,N,3,High School,High School,Private,Self Employeed,N,married,regularly,74%,always,10,nil,disturbed,Poor,low,moderately active,moderate,LOW,moderate,inactive,never
+4,F,N,3,Graduate,Graduate,Private,Self Employeed,N,married,regularly,56%,always,10,nil,disturbed,Poor,low,moderately active,moderate,LOW,moderate,inactive,sometimes
+4,M,N,3,High School,Graduate,Private,Self Employeed,N,married,regularly,70%,always,45,moderate,calm,Poor,low,active,moderate,LOW,moderate,inactive,sometimes
+4,M,N,3,Post Graduate,Graduate,Private,Self Employeed,N,married,regularly,72%,always,75,good,focused,Good,confident,active,moderate,GOOD,moderate,inactive,sometimes
+4,M,N,4,Post Graduate,Post Graduate,Private,Government,N,married,regularly,90%,always,88,good,focused,Excellent,low,active,moderate,GOOD,moderate,inactive,never
+4,M,N,3,Graduate,Graduate,Private,Self Employeed,N,married,regularly,87%,always,85,good,focused,Excellent,low,active,moderate,GOOD,moderate,inactive,never
+4,F,N,3,Post Graduate,Graduate,Private,Self Employeed,N,married,regularly,92%,always,98,good,focused,Excellent,confident,active,good,EXCELLENT,moderate,inactive,sometimes
+4,M,N,3,Post Graduate,Graduate,Private,Self Employeed,N,married,regularly,90%,always,98,good,focused,Excellent,confident,active,good,EXCELLENT,moderate,inactive,sometimes
+4,F,N,4,Graduate,Graduate,Private,Self Employeed,N,married,regularly,82%,always,40,moderate,calm,Poor,low,active,good,LOW,moderate,inactive,sometimes
+4,F,N,6,Post Graduate,Graduate,Private,Self Employeed,N,married,regularly,78%,always,40,moderate,disturbed,Poor,low,active,good,AVERAGE,moderate,inactive,sometimes
+4,M,N,4,Graduate,Graduate,Private,Self Employeed,N,married,regularly,78%,always,65,moderate,disturbed,Average,confident,active,good,AVERAGE,moderate,inactive,never
+4,M,N,3,Post Graduate,Graduate,Government,Self Employeed,N,married,regularly,85%,always,80,good,disturbed,Good,confident,active,good,GOOD,moderate,inactive,sometimes
+4,M,N,3,Post Graduate,Post Graduate,Private,Private,N,married,regularly,90%,always,80,good,calm,Good,confident,active,moderate,EXCELLENT,moderate,inactive,sometimes
+4,F,N,4,Graduate,Graduate,Private,Private,N,married,regularly,89%,always,40,good,disturbed,Poor,low,active,good,AVERAGE,moderate,inactive,sometimes
+4,M,N,4,Graduate,Graduate,Private,Self Employeed,N,married,regularly,98%,always,95,good,calm,Excellent,confident,active,moderate,EXCELLENT,moderate,inactive,sometimes
+4,M,N,4,Graduate,Graduate,Private,Self Employeed,N,married,regularly,87%,always,90,good,calm,Excellent,confident,moderately active,moderate,GOOD,moderate,inactive,never
+4,M,N,3,Post Graduate,Graduate,Private,Self Employeed,N,married,regularly,90%,always,90,good,calm,Excellent,confident,active,good,GOOD,moderate,inactive,never
+4,F,N,4,Graduate,Graduate,Private,Private,N,married,regularly,67%,always,40,moderate,disturbed,Poor,low,active,moderate,AVERAGE,moderate,inactive,sometimes
+4,F,N,3,Post Graduate,Graduate,Private,Self Employeed,N,married,regularly,74%,always,50,moderate,disturbed,Poor,confident,active,moderate,AVERAGE,moderate,inactive,sometimes
+4,M,N,3,Graduate,Graduate,Private,Self Employeed,Y,married,regularly,98%,sometimes,10,nil,hyper active,Poor,low,moderately active,moderate,LOW,moderate,,never
+6,F,KG,3,Diploma,Higher Secondary ,Private ,Self employed ,N,Married ,Sometimes ,78%,Always ,96,Good,Focused,Excellent,Confident,Active,Good,Excellent,Moderate,,Regular
+6,F,KG,4,Post graduate ,Diploma ,Self employed ,Private,N ,Married ,Sometimes ,56%,Always ,94,Good,Focused,Excellent,Confident,Active,Good,Good,Moderate,,sometime
+6,F,KG,5,Diploma,Graduate,Government ,Government ,N ,Married ,Never ,88%,Always ,96,Good,Focused,Excellent,Confident,Active,Good,Excellent,Moderate,,Regular
+6,M,KG,4,Diploma,Post Graduate,Private ,Private,N ,Married ,Regularly ,97%,Always ,85,Good,Focused,Excellent,Confident,Active,Good,Excellent,Moderate,,Regular
+6,M,KG,5,Diploma,Post Graduate ,Private ,Self employed ,N,Married ,Sometimes ,71%,Always ,96,Moderate,Focused,Excellent,Low,Active,Good,Good,Moderate,,Regular
+6,M,KG,3,Diploma,Graduate ,Government ,Private,N,Married ,Regularly ,84%,Always ,75,Good,Focused,Good,Over-Confident,Moderately active,Good,Good,Moderate,,Regular
+6,F,KG,4,Post graduate,Diploma ,Self employed ,Private,N,Married ,Sometimes ,65%,Sometimes,92,Good,Focused,Excellent,Confident,Active,Good,Average,Moderate,,Regular
+6,M,KG,4,Post graduate,Graduate,Government ,Private,N,Married ,Sometimes ,87%,Always ,97,Good,Focused,Excellent,Confident,Active,Good,Good,Moderate,,Regular
+6,F,KG,5,Graduate ,Graduate ,Private ,Private,N,Married ,Sometimes ,84%,Always ,93,Good,Focused,Excellent,Confident,Active,Good,Good,Moderate,,Regular
+6,F,KG,5,Higher Secondary ,Higher Secondary ,Government,Private,N ,Married ,Sometimes ,89%,Always ,85,Moderate,Disturbed,Excellent,Confident,Active,Good,Excellent,Moderate,,Regular
+6,M,KG,5,Diploma,Graduate,Private ,Private,N,Married ,Sometimes ,92%,Always ,86,Good,Focused,Excellent,Confident,Active,Good,Excellent,Moderate,,Regular
+6,M,KG,5,Graduate ,Graduate,Private ,Private,N,Married ,Sometimes ,89%,Always ,87,Moderate,Focused,Excellent,Low,Active,Good,Good,Moderate,,sometime
+6,M,KG,4,Post graduate,Graduate,Private ,Private,Y,Married ,Sometimes ,88%,Always ,94,Good ,Focused,Excellent,Over-Confident,Active,Good,Good,Moderate,,sometime
+6,F,KG,4,Post graduate,Graduate,Private ,Private,N ,Married ,Sometimes ,80%,Always ,75,Moderate,Focused,Good,Confident,Moderately active,Good,Good,Moderate,,sometime
+6,F,KG,4,Post graduate,Graduate,Private ,Private,N ,Married ,Sometimes ,78%,Always ,76,Good,Focused,Good,Low,Active,Moderate,Excellent,Moderate,,sometime
+6,M,KG,3,Post graduate,Graduate,Private ,Private,N ,Married ,Sometimes ,77%,Always ,94,Good,Focused,Excellent,Confident,Active,Good,Average,Moderate,,sometime
+6,M,KG,3,Post graduate,Graduate,Private ,Private,N ,Married ,Sometimes ,65%,Always ,93,Good,Focused,Excellent,Confident,Moderately active,Good,Good,Moderate,,sometime
+6,M,KG,3,Post graduate,Graduate,Private ,Private,N ,Married ,Sometimes ,94%,Always ,99,Good,Focused,Excellent,Over-Confident,Moderately active,Good,Excellent,Moderate,,Regular
+6,F,KG,3,Post graduate,Graduate,Private ,Private,N ,Married ,Sometimes ,90%,Always ,98,Good,Focused,Excellent,Over-Confident,Active,Good,Good,Moderate,,Regular
+6,F,KG,3,Post graduate,Graduate,Private ,Private,N ,Married ,Sometimes ,91%,Always ,97,Good,Focused,Excellent,Confident,Active,Good,Excellent,Moderate,,Regular
+6,M,KG,3,Post graduate,Graduate,Private ,Private,N ,Married ,Sometimes ,87%,Always ,86,Good,Focused,Excellent,Confident,Active,Good,Excellent,Moderate,,Regular
+6,F,KG,3,Post graduate,Graduate,Private ,Private,N ,Married ,Sometimes ,88%,Always ,87,Good,Focused,Excellent,Confident,Active,Moderate,Excellent,Moderate,,Regular
+6,F,KG,3,Post graduate,Graduate,Private ,Private,N ,Married ,Sometimes ,84%,Sometimes,82,Good,Focused,Excellent,Low,Active,Good,Excellent,Moderate,,Regular
+6,F,KG,3,Post graduate,Graduate,Private ,Private,N ,Married ,Sometimes ,84%,Sometimes,86,Moderate,Focused,Excellent,Low,Active,Moderate,Good,Moderate,,Regular
+6,F,KG,3,Post graduate,Graduate,Private ,Private,N ,Married ,Sometimes ,84%,Always ,83,Good ,Disturbed,Excellent,Confident,Active,Moderate,Good,Moderate,,Regular
+6,M,KG,3,Post graduate,Graduate,Private ,Private,N ,Married ,Sometimes ,84%,Always ,81,Moderate,Focused,Excellent,Confident,Active,Good,Good,Moderate,,Regular
+6,M,KG,3,Post graduate,Graduate,Private ,Private,N ,Married ,Sometimes ,84%,Always ,79,Good,Focused,Good,Confident,Active,Good,Excellent,Moderate,,Regular
+6,F,KG,3,Post graduate,Graduate,Private ,Private,N ,Married ,Sometimes ,84%,Always ,72,Good,Focused,Good,Confident,Active,Good,Excellent,Moderate,,Regular
+6,F,KG,3,Post graduate,Graduate,Private ,Private,N ,Married ,Sometimes ,84%,Always ,96,Good,Focused,Excellent,Confident,Active,Moderate,Excellent,Moderate,,Regular
+6,M,KG,3,Post graduate,Graduate,Self employed ,Private,N ,Married ,Sometimes ,84%,Always ,94,Good,Focused,Excellent,Low,Active,Moderate,Good,Moderate,,Regular
+6,M,KG,3,Post graduate,Graduate,Government,Private,N ,Married ,Sometimes ,84%,Always ,94,Good,Focused,Excellent,Confident,Active,Moderate,Good,Moderate,,Regular
+6,M,KG,3,Graduate ,Graduate,Government,Private,N ,Married ,Sometimes ,84%,Always ,96,Good,Focused,Excellent,Confident,Active,Good,Average,Moderate,,sometime
+6,F,KG,3,Graduate ,Graduate,Government,Government,N ,Married ,Sometimes ,74%,Always ,97,Good,Focused,Excellent,Confident,Active,Good,Average,Moderate,,Regular
+6,M,KG,3,Graduate ,Graduate,Government,Government,N ,Married ,Sometimes ,94%,Always ,95,Good,Focused,Excellent,Confident,Moderately active,Good,Good,Moderate,,Regular
+6,M,KG,3,Graduate ,Graduate,Government,Government,N ,Married ,Sometimes ,90%,Always ,95,Good,Focused,Excellent,Confident,Inactive,Good,Good,Moderate,,sometime
+6,M,KG,3,Graduate ,Diploma ,Government,Government,N ,Married ,Regularly ,71%,Always ,97,Good,Focused,Excellent,Over-Confident,Moderately active,Good,Good,Moderate,,sometime
+6,M,KG,3,Graduate ,Higher Secondary ,Government,Government,N ,Married ,Never ,68%,Always ,94,Good,Focused,Excellent,Confident,Active,Good,Excellent,Moderate,,sometime
+6,F,KG,3,Graduate ,Higher Secondary ,Government,Private,N ,Married ,Regularly ,74%,Always ,96,Good,Focused,Excellent,Low,Active,Good,Excellent,Moderate,,Regular
+6,M,KG,3,Graduate ,Higher Secondary ,Government,Private,N ,Married ,Regularly ,74%,Always ,86,Good,Focused,Excellent,Confident,Active,Good,Excellent,Moderate,,Regular
+6,M,KG,3,Graduate ,Higher Secondary ,Government,Private,N ,Married ,Regularly ,74%,Always ,83,Moderate,Focused,Excellent,Low,Active,Good,Good,Moderate,,Regular
+6,F,KG,3,Graduate ,Higher Secondary ,Government,Private,N ,Married ,Regularly ,74%,Always ,87,Good,Focused,Excellent,Low,Inactive,Good,Good,Moderate,,Regular
+6,F,KG,3,Graduate ,Higher Secondary ,Government,Private,N ,Married ,Regularly ,74%,Always ,88,Good,Focused,Excellent,Confident,Active,Good,Excellent,Moderate,,sometime
+6,F,KG,3,Graduate ,Higher Secondary ,Government,Private,N ,Married ,Regularly ,74%,Always ,86,Good,Disturbed,Excellent,Confident,Active,Good,Excellent,Moderate,,sometime
+6,M,KG,3,Graduate ,Higher Secondary ,Government,Private,N ,Married ,Regularly ,74%,Always ,96,Good,Focused,Excellent,Confident,Active,Good,Excellent,Moderate,,sometime
+6,M,KG,3,Graduate ,Higher Secondary ,Government,Private,N ,Married ,Regularly ,74%,Always ,99,Good,Focused,Excellent,Confident,Active,Moderate,Excellent,Moderate,,sometime
+6,F,KG,3,Graduate ,Higher Secondary ,Government,Private,N ,Married ,Regularly ,74%,Always ,98,Moderate,Focused,Excellent,Low,Inactive,Moderate,Average,Moderate,,Regular
+5,F,KG,3,Graduate ,Graduate ,Private ,Private ,N,Married ,Sometimes ,60%,Sometimes ,40,Nil,Calm,Poor,Low,Moderately Active ,Nil ,Low ,Moderate ,Inactive ,Regularly 
+5,F,KG,4,Graduate ,Graduate ,Private ,Private ,Y,Married ,Never ,53%,Always ,25,Nil ,Hyperactive ,Poor,Low ,Inactive ,Nil ,Low ,Moderate ,Inactive ,Regularly 
+5,F,KG,3,High - School ,High - School ,Government ,Private ,N,Married ,Regularly ,50%,Always,58,Moderate ,Focused ,Poor,Confident,Active ,Moderate ,Average ,Moderate ,Inactive ,Regularly 
+5,M,KG,3,Graduate ,High - School ,Self - Employeed,Private ,N,Married ,Regularly ,65%,Always ,63,Good ,Calm ,Average,Confident ,Moderately Active ,Good ,Average ,Moderate ,Inactive ,Regularly 
+5,F,KG,3,Post - Graduate ,Graduate ,Government ,Government ,N,Married ,Sometimes ,40%,Always ,70,Good ,Focused ,Average,Low ,Active ,Good ,Average ,Moderate ,Inactive ,Regularly 
+5,F,KG,3,Graduate ,Graduate ,Private ,Government ,N,Married ,Never ,70%,Sometimes ,64,Moderate ,Focused ,Average,Confident ,Active ,Moderate ,Average ,Moderate ,Inactive ,Regularly 
+5,M,KG,3,Post - Graduate ,Post - Graduate ,Government ,Government ,N,Married ,Regularly ,73%,Sometimes ,90,Good ,Calm ,Excellent,Confident ,Active ,Moderate ,Average ,Moderate ,Inactive ,Regularly 
+5,M,KG,4,Post - Graduate ,Post - Graduate ,Self - Employeed,Private ,Y,Married ,Regularly ,71%,Always ,82,Good ,Disturbed ,Excellent,Low ,Inactive ,Nil ,Low ,Moderate ,Inactive ,Regularly 
+5,M,KG,4,Post - Graduate ,Post - Graduate ,Self - Employeed,Self - Employeed,N,Married ,Sometimes ,65%,Always ,61,Good ,Focused ,Average,Confident ,Active ,Good ,Good ,Moderate ,Inactive ,Regularly 
+5,F,KG,3,Graduate ,High - School ,Private ,Private ,N,Married ,Regularly ,58%,Always ,55,Moderate ,Focused ,Poor,Confident ,Active ,Moderate ,Good ,Moderate ,Inactive ,Regularly 
+5,F,KG,3,Post - Graduate ,Graduate ,Private ,Private ,N,Married ,Regularly ,48%,Always ,68,Good ,Calm ,Average,Confident ,Active ,Moderate ,Good ,Moderate ,Inactive ,Regularly 
+5,M,KG,3,Graduate ,Graduate ,Private ,Private ,N,Married ,Sometimes ,50%,Sometimes ,86,Moderate ,Disturbed ,Excellent,Low ,Active ,Nil ,Low ,Moderate ,Inactive ,Regularly 
+5,M,KG,4,Post - Graduate ,Post - Graduate ,Private ,Private ,N,Married ,Sometimes ,80%,Always ,92,Moderate ,Aggressive ,Excellent,Over-Confident ,Active ,Good ,Average ,Moderate ,Inactive ,Regularly 
+5,M,KG,3,Graduate ,High - School ,Private ,Private ,N,Married ,Regularly ,75%,Always ,78,Good ,Calm ,Good,Confident ,Moderately Active ,,Average ,Moderate ,Inactive ,Regularly 
+5,M,KG,4,Post - Graduate ,Graduate ,Government ,Self - Employeed,N,Married ,Regularly ,53%,Always ,65,Good ,Focused ,Average,Confident ,Active ,Good ,Excellent ,Moderate ,Inactive ,Regularly 
+5,M,KG,3,Graduate ,Graduate ,Private ,Private ,N,Married ,Regularly ,65%,Always ,75,Moderate ,Focused ,Good,Confident ,Active ,Good ,Excellent ,Moderate ,Inactive ,Regularly 
+5,F,KG,3,Post - Graduate ,Graduate ,Government ,Private ,N,Married ,Regularly ,79%,Always ,80,Good ,Focused ,Good,Confident ,Active ,Good ,Excellent ,Moderate ,Inactive ,Regularly 
+5,M,KG,3,Graduate ,Graduate ,Private ,Private ,N,Married ,Regularly ,53%,Always ,69,Good ,Calm ,Average,Low ,Inactive ,Moderate ,Good ,Moderate ,Inactive ,Regularly 
+5,M,KG,3,Post - Graduate ,Post - Graduate ,Private ,Private ,N,Married ,Sometimes ,74%,Always ,52,Good ,Focused ,Poor,Confident ,Active ,Moderate ,Low ,Moderate ,Inactive ,Regularly 
+5,M,KG,3,Graduate ,Graduate ,Private ,Self - Employeed,N,Married ,Sometimes ,65%,Always ,50,Good ,Focused ,Poor,Confident ,Active ,Moderate ,Good ,Moderate ,Inactive ,Regularly 
+5,F,KG,3,Post - Graduate ,Graduate ,Government ,Private ,N,Married ,Sometimes ,78%,Sometimes ,90,Moderate ,Aggressive ,Excellent,Over-Confident ,Active ,Moderate ,Excellent ,Moderate ,Inactive ,Regularly 
+5,M,KG,3,Post - Graduate ,Post - Graduate ,Self - Employeed,Self - Employeed,N,Married ,Regularly ,82%,Sometimes ,68,Moderate ,Calm ,Average,Low ,Active ,Moderate ,Excellent ,Moderate ,Inactive ,Regularly 
+5,F,KG,3,Post - Graduate ,Post - Graduate ,Private ,Private ,N,Married ,Regularly ,80%,Always ,72,Moderate ,Focused ,Good,Confident ,Active ,Good ,Good ,Moderate ,Inactive ,Regularly 
+5,M,KG,4,Graduate ,Graduate ,Government ,Government ,N,Married ,Sometimes ,75%,Always ,78,Good ,Focused ,Good,Confident ,Moderately Active ,Good ,Good ,Moderate ,Inactive ,Regularly 
+5,M,KG,3,Graduate ,Graduate ,Self - Employeed,Self - Employeed,N,Married ,Sometimes ,68%,Always ,52,Good ,Focused ,Poor,Confident ,Active ,Moderate ,Good ,Moderate ,Inactive ,Regularly 
+5,M,KG,4,Post - Graduate ,Graduate ,Self - Employeed,Private ,N,Married ,Regularly ,58%,Always ,63,Good ,Disturbed ,Average,Confident ,Active ,Moderate ,Excellent ,Moderate ,Inactive ,Regularly 
+5,M,KG,3,Post - Graduate ,Post - Graduate ,Private ,Private ,N,Married ,Regularly ,54%,Always ,53,Good ,Calm ,Poor,Low ,Active ,Good ,Excellent ,Moderate ,Inactive ,Regularly 
+5,M,KG,3,Graduate ,Graduate ,Government ,Government ,N,Married ,Regularly ,67%,Always ,85,Good ,Calm ,Excellent,Over-Confident ,Active ,Good ,Excellent ,Moderate ,Inactive ,Regularly 
+5,M,KG,3,Post - Graduate ,Graduate ,Private ,Self - Employeed,N,Married ,Sometimes ,95%,Always ,76,Good ,Focused ,Good,Low ,Active ,Moderate ,Excellent ,Moderate ,Inactive ,Regularly 
+5,M,KG,3,Post - Graduate ,Graduate ,Government ,Government ,N,Married ,Never ,70%,Always ,65,Good ,Focused ,Average,Low ,Active ,Good ,Low ,Moderate ,Inactive ,Regularly 
+5,M,KG,3,Graduate ,Graduate ,Private ,Private ,N,Married ,Sometimes ,83%,Always ,95,Good ,Focused ,Excellent,Confident ,Active ,Moderate ,Low ,Moderate ,Inactive ,Regularly 
+5,M,KG,3,Post - Graduate ,Post - Graduate ,Private ,Private ,N,Married ,Sometimes ,85%,Always ,85,Good ,Disturbed ,Excellent,Confident ,Active ,Moderate ,Good ,Moderate ,Inactive ,Regularly 
+5,F,KG,3,Graduate ,Graduate ,Private ,Private ,N,Married ,Regularly ,76%,Always ,93,Good ,Focused ,Excellent,Confident ,Inactive ,Good ,Good ,Moderate ,Inactive ,Regularly 
+5,F,KG,3,Post - Graduate ,Post - Graduate ,Private ,Private ,N,Married ,Regularly ,72%,Always ,68,Good ,Calm ,Average,Confident ,Inactive ,Good ,Excellent ,Moderate ,Inactive ,Regularly 
+5,F,KG,3,Graduate ,Graduate ,Government ,Government ,N,Married ,Regularly ,52%,Sometimes ,82,Good ,Calm ,Excellent,Confident ,Active ,Good ,Good ,Moderate ,Inactive ,Regularly 
+5,F,KG,3,Graduate ,Graduate ,Self - Employeed,Self - Employeed,N,Married ,Regularly ,68%,Sometimes ,75,Good ,Focused ,Good,Over-Confident ,Active ,Good ,Good ,Moderate ,Inactive ,Regularly 
+5,F,KG,3,Post - Graduate ,Post - Graduate ,Private ,Private ,N,Married ,Sometimes ,64%,Always ,72,Good ,Focused ,Good,Confident ,Active ,Moderate ,Average ,Moderate ,Inactive ,Regularly 
+5,F,KG,3,Graduate ,Graduate ,Government ,Private ,N,Married ,Sometimes ,53%,Always ,60,Good ,Focused ,Poor,Confident ,Inactive ,Good ,Average ,Moderate ,Inactive ,Regularly 
+5,M,KG,3,Post - Graduate ,Graduate ,Self - Employeed,Private ,N,Married ,Regularly ,50%,Always ,50,Good ,Focused ,Poor,Confident ,Moderately Active ,Moderate ,Low ,Moderate ,Inactive ,Regularly 
+5,M,KG,3,Post - Graduate ,Graduate ,Private ,Private ,N,Married ,Regularly ,82%,Always ,70,Good ,Calm ,Average,Low ,Active ,Moderate ,Good ,Moderate ,Inactive ,Regularly 
+5,M,KG,3,Post - Graduate ,Graduate ,Government ,Government ,N,Married ,Regularly ,75%,Always ,45,Good ,Disturbed ,Poor,Low ,Active ,Good ,Good ,Moderate ,Inactive ,Regularly 
+5,M,KG,3,Post - Graduate ,Post - Graduate ,Government ,Government ,N,Married ,Sometimes ,60%,Always ,62,Good ,Aggressive ,Average,Over-Confident ,Active ,Good ,Excellent ,Moderate ,Inactive ,Regularly 
+5,F,KG,3,Graduate ,Graduate ,Private ,Private ,N,Married ,Sometimes ,76%,Always ,68,Good ,Hyperactive ,Average,Confident ,Active ,Good ,Average ,Moderate ,Inactive ,Regularly 
+5,F,KG,3,Post - Graduate ,Graduate ,Private ,Private ,N,Married ,Regularly ,60%,Sometimes ,82,Good ,Focused ,Excellent,Low ,Active ,Nil ,Average ,Moderate ,Inactive ,Regularly 
+5,M,KG,4,Graduate ,Graduate ,Private ,Private ,N,Married ,Regularly ,76%,Always ,63,Good ,Focused ,Average,Confident ,Active ,Good ,Low ,Moderate ,Inactive ,Regularly 
+5,F,KG,3,Post - Graduate ,Post - Graduate ,Government ,Government ,N,Married ,Regularly ,74%,Sometimes ,58,Good ,Focused ,Poor,Confident ,Inactive ,Nil ,Good ,Moderate ,Inactive ,Regularly 
+5,F,KG,4,Graduate ,Graduate ,Private ,Private ,N,Married ,Regularly ,70%,Sometimes ,72,Good ,Calm ,Good,Confident ,Active ,Moderate ,Good ,Moderate ,Inactive ,Regularly 
+5,M,KG,4,Post - Graduate ,Post - Graduate ,Self - Employeed,Self - Employeed,N,Married ,Regularly ,63%,Always ,56,Good ,Focused ,Poor,Confident ,Active ,Moderate ,Excellent ,Moderate ,Inactive ,Regularly 
+15,F,9,4,,,Government,,N,Married,Regularly,95%,Always,0.9,Good,Focused,Poor,Confident,Active,Good,Excellent ,Moderate ,moderately active,Regularly 
+14,M,9,4,,,self-employed,,N,Married,Regularly,88%,Always,0.8,Moderate ,Aggressive ,Poor,Over- confident,Active,Good,Excellent ,Addicted ,Over active ,Regularly 
+15,F,9,3,,,Government,,N,Married ,Regularly,89%,Always ,0.8,Good ,Focused ,Poor,Confident,Active,Good ,Good,Moderate,moderately active,Regularly 
+14,F,9,3,,,self-employed,,N,Married,Regularly,80%,Always,0.7,Moderate ,Focused,Poor,Confident,Active ,Good,Good,Moderate ,moderately active ,Regularly 
+15,M,9,4,,,Government,,N,Married,Regularly,89%,Always,0.85,Good,Calm,Poor,Low- Confident,Active ,Moderate ,Good,No usage,Inactive ,Regularly 
+14,F,9,3,,,Self-employed,,N,Married,Regularly ,98%,Always ,0.9,Good,Focused ,Poor,Confident,Active,Good,Excellent ,Moderate ,moderately active,Regularly 
+15,M,9,4,,,Government,,N,Married,Regularly,99%,Always,0.85,Moderate ,Hyperactive ,Poor,Over- Confident,Active ,Good,Excellent ,Moderate ,moderately active,Regularly 
+15,M,9,3,,,Private,,N,Married,Regularly ,80%,Sometimes ,0.7,Nil,Hyperactive ,Poor,Over- Confident,Active,Good,Good,Moderate ,moderately active,Sometimes
+14,M,9,3,,,Government,,N,Married,Sometimes,78%,Always ,0.85,Good,Calm,Poor,low,Inactive ,Moderate ,Good,Moderate ,moderately active,Never
+15,M,9,4,,,self-employed,,N,Married,Regularly,75%,Sometimes ,0.65,Moderate ,Calm,Poor,Confident,Active,Moderate ,Average ,Moderate,moderately active,Regularly 
+15,F,9,3,,,Private,,N,Married,Regularly,95%,Always ,0.75,Good,Calm,Poor,Confident,Active,Good,Good,Moderate ,moderately active,Regularly
+15,M,9,4,,,Government,,N,Married,Regularly,85%,Sometimes ,0.65,Moderate ,Focused ,Poor,Confident,Active ,Good,Average ,Moderate ,moderately active,Regularly 
+14,M,9,3,,,Private ,,N,Married ,Regularly,82%,Sometimes ,0.5,Nil,Hyperactive ,Poor,Confident,Active,Good,Average ,Moderate ,moderately active,Regularly 
+10,F,4,3,Graduate ,Graduate ,Self employed ,Private,N,Married ,Sometimes ,80%,sometimes,75,Moderate ,Calm,Good,low,active,good,average ,no usage,inactive ,sometimes 
+10,M,4,3,Graduate ,Graduate ,private,self employed ,N,Married ,never,94%,always,91,good,focussed ,Excellent,confident,active,good,average ,moderate ,inactive ,never
+10,F,4,3,Graduate ,Graduate ,private,self employed ,N,Married ,Sometimes ,97%,always,74,moderate ,calm,Good,confident,active,good,average ,moderate ,inactive ,sometimes 
+9,F,4,3,Graduate ,Graduate ,private,self employed ,N,Married ,Sometimes ,92%,always,59.6,moderate ,clam,Poor,confident,active,good,average ,moderate ,inactive ,sometimes 
+9,F,4,3,Graduate ,Graduate ,private,self employed ,N,Married ,regularly ,70%,always,8502,Moderate ,focussed ,,confident,active,good,average ,moderate ,inactive ,sometimes 
+9,F,4,3,Graduate ,Graduate ,private,self employed ,N,Married ,regularly ,65%,always,46.5,good,focused ,Poor,confident,active,good,average ,moderate ,inactive ,sometimes 
+9,F,4,3,Graduate ,Graduate ,private,self employed ,N,Married ,never,89%,always,89.5,good,calm,Excellent,confident,active,good,average ,moderate ,inactive ,sometimes 
+9,M,4,3,Graduate ,Graduate ,private,self employed ,N,Married ,regularly ,85%,never,63,good,calm,Average,confident,active,moderate,average ,moderate ,inactive ,sometimes 
+9,F,4,3,Graduate ,Graduate ,private,self employed ,N,Married ,Sometimes ,77%,sometimes,87,good,calm,Excellent,confident,active,good,average ,no usage,inactive ,sometimes 
+9,F,4,3,Graduate ,Graduate ,private,self employed ,N,Married ,Sometimes ,52%,always,56,good,calm,Poor,confident,active,good,average ,moderate ,inactive ,sometimes 
+9,F,4,3,post graduate ,Graduate ,private,self employed ,N,Married ,Sometimes ,59%,always,56,good,calm,Poor,confident,active,good,average ,moderate ,inactive ,sometimes 
+9,M,4,3,post graduate ,Graduate ,private,self employed ,N,Married ,Sometimes ,80%,always,45.6,nil ,calm,Poor,confident,active,good,average ,moderate ,inactive ,sometimes 
+9,F,4,3,diploma,Graduate ,private,self employed ,N,Married ,Sometimes ,78%,always,93.1,good,calm,Excellent,confident,active,good,good,moderate ,inactive ,sometimes 
+9,M,4,3,graduate ,Graduate ,private,self employed ,N,Married ,Sometimes ,76%,always,56,good,calm,Poor,confident,active,good,good,moderate ,inactive ,sometimes 
+9,M,4,4,post graduate,Graduate ,Self employed ,Private,N,Married ,Sometimes ,88%,always,85,good,focussed ,Excellent,confident,active,moderate,good,moderate ,inactive ,sometimes 
+9,M,4,3,post graduate,Diploma,private,Private,N,Married ,Sometimes ,89%,always,44,good,focussed ,Poor,confident,active,good,good,no usage,inactive ,sometimes 
+9,F,4,3,post graduate,Graduate ,government ,Private,N,Married ,never,96%,always,53,good,focussed ,Poor,confident,active,good,good,moderate ,inactive ,sometimes 
+9,F,4,4,post graduate,Graduate ,private,Private,N,Married ,regularly ,91%,always,76,good,focussed ,Good,confident,active,good,good,no usage,inactive ,sometimes 
+9,F,4,3,post graduate,Graduate ,government ,Private,N,Married ,Sometimes ,78%,always,54,good,focussed ,Poor,confident,active,good,good,moderate ,inactive ,sometimes 
+9,F,4,3,post graduate,Graduate ,Self employed ,Private,N,Married ,never,91%,always,56,good,focussed ,Poor,low,active,good,good,moderate ,inactive ,sometimes 
+9,M,4,4,post graduate,Graduate ,Self employed ,Private,N,Married ,regularly ,99%,always,74,good,focussed ,Good,confident,active,good,good,moderate ,inactive ,regularly 
+9,F,4,4,post graduate,Graduate ,Self employed ,Private,N,Married ,regularly ,84%,always,75,good,focussed ,Good,confident,active,good,good,moderate ,inactive ,regularly 
+10,M,4,3,post graduate,Graduate ,Self employed ,Private,N,Married ,regularly ,66%,always,80,good,disturbed,Good,confident,active,good,good,moderate ,inactive ,regularly 
+9,M,4,3,post graduate,Diploma ,Self employed ,Private,N,Married ,regularly ,51%,always,52,good,Calm,Poor,confident,active,good,good,moderate ,inactive ,regularly 
+9,M,4,3,post graduate,Post graduate ,Self employed ,Private,N,Married ,regularly ,92%,always,46,good,focussed ,Poor,confident,active,moderate,good,moderate ,inactive ,regularly 
+9,M,4,3,post graduate,Diploma,Self employed ,Private,N,Married ,regularly ,97%,always,83,Moderate ,focussed ,Excellent,confident,active,good,good,moderate ,inactive ,regularly 
+9,F,4,3,post graduate,graduate ,private,Private,N,Married ,regularly ,82%,always,72,good,focussed ,Good,confident,active,good,good,moderate ,inactive ,never
+9,F,4,3,post graduate,graduate ,government ,Private,N,Married ,regularly ,88%,always,66,good,focussed ,Average,confident,active,good,good,moderate ,inactive ,regularly 
+9,M,4,3,post graduate,graduate ,government ,government ,N,Married ,regularly ,73%,always,59,good,focussed ,Poor,confident,active,good,good,no usage,inactive ,regularly 
+9,M,4,3,post graduate,post graduate ,government ,private,N,Married ,regularly ,77%,always,82,good,focussed ,Excellent,confident,active,good,good,moderate ,inactive ,regularly 
+9,M,4,3,graduate ,graduate ,Self employed ,government ,N,Married ,sometimes ,85%,always,43.5,good,focussed ,Poor,confident,active,good,good,moderate ,inactive ,regularly 
+9,F,4,3,graduate ,graduate ,private ,self employed ,N,Married ,sometimes ,93%,always,61,good,focussed ,Average,confident,active,good,average ,moderate ,inactive ,sometimes 
+9,M,4,3,graduate ,graduate ,private ,self employed ,N,Married ,sometimes ,95%,always,82,good,focussed ,Excellent,confident,active,good,good,moderate ,inactive ,sometimes 
+9,F,4,3,graduate ,graduate ,private ,self employed ,N,Married ,sometimes ,96%,always,96,good,calm,Excellent,confident,active,good,good,moderate ,inactive ,sometimes 
+9,F,4,3,graduate ,graduate ,private ,self employed ,N,Married ,sometimes ,81%,always,53,good,calm,Poor,confident,active,good,good,moderate ,inactive ,sometimes 
+9,M,4,3,graduate ,graduate ,private ,self employed ,N,Married ,sometimes ,90%,always,53,good,calm,Poor,confident,active,good,good,moderate ,inactive ,sometimes 
+9,M,4,3,graduate ,graduate ,private ,self employed ,N,Married ,sometimes ,60%,always,46,good,calm,Poor,confident,active,good,good,moderate ,inactive ,sometimes 
+9,M,4,3,graduate ,graduate ,private ,self employed ,N,Married ,sometimes ,89%,always,77,good,calm,Good,confident,active,good,good,no usage,inactive ,sometimes 
+9,F,4,3,graduate ,graduate ,private ,self employed ,N,Married ,sometimes ,85%,always,48,good,calm,Poor,confident,active,good,good,moderate ,inactive ,never
+9,F,4,3,graduate ,graduate ,private ,self employed ,N,Married ,sometimes ,95%,always,84,good,focused,Excellent,confident,active,good,good,moderate ,inactive ,sometimes 
+9,M,4,3,graduate ,diploma ,private ,Private,N,Married ,sometimes ,71%,always,70,good,focused,Average,confident,active,good,good,moderate ,inactive ,sometimes 
+9,M,4,4,diploma ,graduate ,private ,Private,N,Married ,sometimes ,73%,always,83,good,focused,Excellent,confident,active,good,good,moderate ,inactive ,sometimes 
+9,F,4,4,Graduate ,graduate ,private ,Private,N,Married ,sometimes ,90%,always,80,good,focused,Good,confident,active,good,good,moderate ,inactive ,sometimes 
+6,M,1,3,Graduate,Graduate,Private,self employed ,N,Married ,Sometimes,70%,Always,75,Good,Calm,Good,Low,Inactive,Moderate,Average,No Usage,,Sometimes
+6,M,1,4,Graduate,Graduate,Private,self employed ,N,Married ,Regularly,80%,Always,85,Good,Foused,Excellent,Over Confident,Active,Good,Good,Moderate,,Regularly
+6,M,1,4,Graduate,Graduate,Private,self employed ,Y,Married ,Sometimes,70%,Sometimes,40,Nil,Disturbed,Poor,Low,Active,Nil,low,Moderate,,Never
+6,F,1,5,Graduate,Graduate,Private,self employed ,N,Married ,Regularly,80%,Always,70,Moderate,Calm,Average,,Active,Moderate,Average,Moderate,,Regularly
+6,F,1,4,Post-Graduate,Post-Graduate,Private ,self employed ,N,Married ,Regularly,95%,Always,95,Good,Foused,Excellent,Confident,Active,Good,Excellent,Moderate,,Regularly
+7,F,1,4,High School,High School,Private ,self employed ,N,Married ,Sometimes,75%,Sometimes,40,Nil,Calm,Poor,Low,Active,Moderate,low,Moderate,,Regularly
+6,M,1,3,Graduate,Graduate,Private ,Private,N,Married ,Sometimes,35%,Never,25,Nil,Disturbed,Poor,Lo,Active,Moderate,low,Moderate,,Regularly
+7,M,1,4,Post-Graduate,Post-Graduate,Private ,self employed ,N,Married ,Sometimes,80%,Always,95,Good,Foused,Excellent,Over Confident,Active,Good,Excellent,Moderate,,Regularly
+6,M,1,3,Post-Graduate,Post-Graduate,Private ,self employed ,N,Married ,Regularly,90%,Always,95,Good,Foused,Excellent,Confident,Active,Good,Excellent,Moderate,,Regularly
+6,M,1,3,Graduate,Graduate,Private ,self employed ,N,Married ,Sometimes,80%,Always,70,Moderate,Calm,Average,Low,Moderately Active,Nil,Good,Moderate,,Regularly
+7,F,1,6,Post-Graduate,Post-Graduate,Private ,Private,N,Married ,Regularly,95%,Always,85,Good,Foused,Excellent,Confident,Active,Good,Good,Moderate,,Regularly
+6,M,1,4,Graduate,Graduate,Private ,self employed ,N,Married ,Regularly,80%,Always,65,Good,Foused,Average,Confident,Active,Good,Good,Moderate,,Regularly
+7,F,1,3,Post-Graduate,Post-Graduate,Private ,self employed ,N,Married ,Regularly,80%,Always,60,Moderate,Calm,Poor,Low,Moderately Active,Moderate,Average,No Usage,,Regularly
+7,M,1,3,Graduate,Graduate,Private ,self employed ,N,Married ,Regularly,90%,Always,55,Moderate,Calm,Poor,Confident,Active,Good,Average,Moderate,,Regularly
+6,M,1,4,High School,High School,Private ,self employed ,N,Married ,Sometimes,75%,Sometimes,45,Moderate,Calm,Poor,Low,Moderately Active,Moderate,low,No Usage,,Regularly
+6,M,1,3,Graduate,Graduate,Private ,self employed ,N,Married ,Regularly,95%,Always,80,Good,Calm,Good,Confident,Active,Good,Good,Moderate,,Regularly
+7,F,1,4,Graduate,Graduate,Private ,self employed ,N,Married ,Sometimes,30%,Sometimes,40,Moderate,Hyper active,Poor,Over Confident,Active,Good,Average,Moderate,,Regularly
+7,M,1,3,High School,High School,Private ,self employed ,N,Married ,Regularly,70%,Always,85,Good,Calm,Excellent,Low,Active,Good,Good,Moderate,,Regularly
+6,M,1,5,Diploma,Diploma,Private ,self employed ,N,Married ,Regularly,80%,Always,30,Nil,Calm,Poor,Confident,Active,Moderate,low,Addicted,,Regularly
+6,F,1,4,High School,High School,Private ,self employed ,N,Married ,Sometimes,70%,Sometimes,30,Nil,Calm,Poor,Low,Active,Moderate,low,Addicted,,Regularly
+5,F,1,3,High School,High School,Private ,self employed ,N,Married ,Regularly,80%,Always,85,Good,Foused,Excellent,Confident,Active,Good,Good,Moderate,,Regularly
+6,F,1,4,High School,High School,Private ,self employed ,N,Married ,Sometimes,95%,Always,55,Moderate,Disturbed,Poor,Low,Moderately Active,Nil,Average,Moderate,,Regularly
+7,F,1,3,Graduate,Graduate,Self Employed,self employed ,N,Married ,Sometimes,75%,Always,50,Moderate,Calm,Poor,Confident,Moderately Active,Good,Average,Moderate,,Regularly
+6,M,1,5,Graduate,Graduate,Private ,self employed ,N,Married ,Sometimes,65%,Always,55,Moderate,Foused,Poor,low,Moderately Active,Moderate,Average,Moderate,,Regularly
+6,M,1,4,Post-Graduate,Post-Graduate,Private ,Government,N,Married ,Regularly,80%,Always,80,Ggod,Calm,Good,Confident,Active,Moderate,Excellent,Moderate,,Regularly
+6,F,1,3,Graduate,Graduate,Private ,self employed ,N,Married ,Regularly,90%,Always,95,good,Hyperactive,Excellent,Over Confident,Active,Good,Excellent,Addicted,,Regularly
+6,M,1,5,Graduate,Graduate,Self Employed,self employed ,N,Married ,Regularly,80%,Always,40,Good,Foused,Poor,Confident,Active,Good,Excellent,Moderate,,Regularly
+6,F,1,3,High School,High School,Private ,self employed ,N,Married ,Regularly,95%,Always,25,Good,Foused,Poor,low,Moderately Active,Moderate,Average,Moderate,,Regularly
+7,F,1,4,High School,High School,Private ,self employed ,N,Married ,Sometimes,80%,Sometimes,95,Moderate,Calm,Excellent,Confident,Active,Good,low,Addicted,,Regularly
+7,M,1,3,High School,High School,Private ,self employed ,N,Married ,Sometimes,80%,Never,95,Good,Foused,Excellent,Confident,Active,Good,low,Addicted,,Regularly
+6,M,1,4,High School,High School,Private ,self employed ,N,Married ,Regularly,90%,Always,70,Good,Foused,Average,Confident,Active,Good,low,Addicted,,Regularly
+6,F,1,5,Graduate,Graduate,Private ,self employed ,N,Married ,Regularly,75%,Always,85,Moderate,Calm,Excellent,Confident,Active,Good,Excellent,Moderate,,Regularly
+7,M,1,3,High School,High School,Private ,self employed ,N,Married ,Sometimes,60%,Always,65,Moderate,Calm,Average,Confident,Active,Good,Excellent,Moderate,,Regularly
+7,F,1,4,Diploma,Diploma,Private ,self employed ,N,Married ,Regularly,95%,Always,60,Moderate,Calm,Poor,Confident,Active,Good,Excellent,Moderate,,Regularly
+6,F,1,4,High School,High School,Private ,self employed ,N,Married ,Regularly,90%,Always,45,Moderate,Hyper active,Poor,Confident,Active,Moderate,Good,Moderate,,Regularly
+6,F,1,5,High School,High School,Private ,self employed ,N,Married ,Regularly,70%,Always,80,Good,Calm,Good,Over Confident,Active,Good,low,Moderate,,Regularly
+7,F,1,3,Graduate,Graduate,Private ,self employed ,N,Married ,Sometimes,70%,Always,40,Moderate,Calm,Poor,Confident,Active,Good,Good,Moderate,,Sometimes 
+6,M,1,5,Graduate,Graduate,Private ,self employed ,N,Married ,Regularly,90%,Always,85,Good,Foused,Excellent,Confident,Active,Good,Excellent,Moderate,,Regularly
+6,M,1,4,Post-Graduate,Post-Graduate,Private ,Government,N,Married ,Sometimes,85%,Always,30,Good,Foused,Poor,Confident,Active,Good,Excellent,Moderate,,Regularly
+7,M,1,5,Graduate,Graduate,Government,Government,N,Married ,Regularly,75%,Sometimes,30,Good,calm,Poor,Low,Inactive,Nil,Average,No Usage,,Sometimes 
+6,F,1,4,Graduate,Graduate,Private,self employed ,N,Married ,Regularly,65%,Always,65,Moderate,calm,Average,Confident,Active,Moderate,Average,Moderate,,Regularly
+6,F,1,4,High School,High School,Private ,self employed ,N,Married ,Sometimes,65%,Always,65,Moderate,calm,Average,Confident,Active,Moderate,Good,Moderate,,Regularly
+6,M,1,5,High School,High School,Private ,self employed ,N,Married ,Regularly,90%,Always,80,Good,focused,Good,Confident,Active,Good,Excellent,Moderate,,Regularly
+6,F,1,5,Graduate,Graduate,Private ,self employed ,N,Married ,Sometimes,80%,Always,90,Good,focused,Excellent,Low,Moderately Active,Good,Excellent,Moderate,,Sometimes
+6,F,1,4,Post-Graduate,Post-Graduate,Private ,self employed ,N,Married ,Sometimes,95%,Always,85,Good,Calm,Excellent,low,Moderately Active,nil,Good,No Usage,,Regularly
+6,M,1,4,Graduate,Graduate,Private ,self employed ,N,Married ,Regularly,75%,Always,70,Good,Calm,Average,Low,Moderately Active,moderate,Average,Moderate,,Sometimes 
+7,F,1,3,Post-Graduate,Post-Graduate,Private ,,N,Married ,Regularly,85%,Always,98,Good,Focused,Excellent,confident,Active,good ,Excellent ,Moderate,,Regularly
+11,F,6,4,Post-Graduate,Graduate,Private,,N,Married,never,88%,Always,75,Moderate,Focused,Good,Over-Confident,Active,Good,Good,Moderate, Moderately Active,sometimes
+11,F,6,3,Graduate,Graduate,Private,,N,Married,regularly,90%,Always,73,Good,Focused,Good,Confident,Active,Good,Good,Moderate, Moderately Active,regularly
+11,M,6,3,Graduate,Graduate,Private,,N,Married,sometimes,95%,sometimes,35,Moderate,Hyperactive,Poor,Confident,Active,Good,Average,No Usage,Inactive,regularly
+11,F,6,3,Graduate,Graduate,Private,,N,Married,regularly,88%,sometimes,34,Nil,Calm,Poor,Low,Inactive,Nil,Low,Addicted,Over Active,regularly
+11,F,6,4,Post-Graduate,Graduate,Private,,N,Married,never,85%,Always,85,Good,Focused,Excellent,Over-Confident,Active,Good,Excellent,Moderate, Moderately Active,sometimes
+11,M,6,3,Graduate,Graduate,Private,,N,Married,never,54%,never,34,Nil,Calm,Poor,Low,Inactive,Nil,Low,No Usage,Inactive,never
+11,M,6,4,Graduate,Graduate,Private,,N,Married,never,82%,never,33,Nil,Disturbed,Poor,Low,Inactive,Nil,Low,Addicted, Moderately Active,never
+11,M,6,4,Graduate,Graduate,Private,,N,Married,never,80%,Always,55,Moderate,Calm,Poor,Confident, Moderately Active,Moderate,Average,Addicted, Moderately Active,never
+11,F,6,3,Graduate,Graduate,Private,,N,Married,never,83%,Always,65,Moderate,Calm,Average,Over-Confident, Moderately Active,Good,Good,Moderate, Moderately Active,never
+11,M,6,3,Graduate,Graduate,Private,,N,Married,regularly,86%,sometimes,38,Moderate,Disturbed,Poor,Confident, Moderately Active,,Average,Addicted,Over Active,regularly
+11,M,6,4,Graduate,Graduate,Private,,N,Married,never,89%,sometimes,33,Moderate,Calm,Poor,Low,Inactive,Moderate,Average,Addicted, Moderately Active,sometimes
+11,M,6,3,Graduate,Graduate,Private,,N,Married,sometimes,70%,sometimes,39,Nil,Disturbed,Poor,Low, Moderately Active,Moderate,Average,Addicted,Over Active,sometimes
+11,M,6,3,Graduate,Graduate,Private,,N,Married,never,80%,never,30,Nil,Calm,Poor,Low,Inactive,Nil,Low,Moderate, Moderately Active,never
+11,F,6,3,Post-Graduate,Graduate,Private,,N,Married,never,92%,sometimes,75,Good,Focused,Good,Confident,Active,Good,Good,Moderate, Moderately Active,sometimes
+11,F,6,3,Post-Graduate,Graduate,Private,,N,Married,regularly,52%,Always,68,Good,Focused,Average,Confident,Active,Good,Good,Moderate, Moderately Active,regularly
+11,M,6,4,Graduate,Graduate,Private,,N,Married,never,88%,sometimes,45,Moderate,Calm,Poor,Low, Moderately Active,Nil,Average,Moderate, Moderately Active,never
+11,M,6,4,Graduate,Graduate,Private,,N,Married,sometimes,74%,sometimes,48,Moderate, Aggressive,Poor,Confident, Moderately Active,Moderate,Good,Moderate, Moderately Active,sometimes
+11,M,6,4,Graduate,Graduate,Private,,N,Married,never,93%,Always,79,Good,Hyperactive,Good,Confident,Active,Good,Good,Moderate, Moderately Active,sometimes
+11,M,6,4,Graduate,Graduate,Private,,N,Married,never,54%,never,30,Nil,Calm,Poor,Low,Inactive,Nil,Low,No Usage, Moderately Active,never
+11,F,6,3,Graduate,Graduate,Private,,N,Married,never,83%,sometimes,34,Moderate,Calm,Poor,Low,Inactive,Nil,Average,No Usage,Inactive,never
+11,M,6,4,Graduate,Graduate,Private,,N,Married,never,84%,sometimes,33,Nil,Calm,Poor,Low,Inactive,Nil,Low,Addicted, Moderately Active,never
+11,M,6,4,Graduate,Graduate,Private,,N,Married,never,67%,never,45,Nil,Disturbed,Poor,Low,Inactive,Nil,Low,Addicted,Over Active,sometimes
+11,M,6,4,Graduate,Graduate,Private,,N,Married,never,88%,sometimes,39,Moderate,Disturbed,Poor,Low,Inactive,Nil,Low,Addicted,Over Active,sometimes
+11,F,6,3,Post-Graduate,Graduate,Private,,N,Married,never,89%,Always,85,Good,Focused,Excellent,Confident,Active,Good,Good,No Usage,Inactive,never
+11,M,6,4,Post-Graduate,Graduate,Private,,N,Married,never,90%,Always,95,Good,Focused,Excellent,Confident,Active,Good,Excellent,No Usage,Inactive,never
+11,F,6,4,Post-Graduate,Graduate,Private,,N,Married,never,72%,Always,68,Good,Calm,Average,Low, Moderately Active,Good,Good,No Usage,Inactive,sometimes
+11,M,6,4,Post-Graduate,Graduate,Private,,N,Married,never,86%,Always,75,Good,Focused,Good,Confident,Active,Good,Good,Moderate,Inactive,never
+11,F,6,4,Graduate,Graduate,Private,,N,Married,never,56%,never,79,Nil,Calm,Good,Over-Confident,Inactive,Nil,Low,Addicted,Over Active,never
+11,M,6,4,Graduate,Graduate,Private,,N,Married,never,95%,Always,33,Moderate,Hyperactive,Poor,Low,Active,Good,Good,No Usage,Inactive,sometimes
+11,M,6,3,Post-Graduate,Graduate,Private,,N,Married,never,95%,Always,73,Good,Focused,Good,Confident,Active,Good,Excellent,No Usage,Inactive,never
+11,M,6,3,Graduate,Graduate,Private,,N,Married,never,86%,Always,85,Moderate,Calm,Excellent,Low,Active,Good,Average,Moderate, Moderately Active,never
+11,F,6,3,Graduate,Graduate,Private,,N,Married,never,51%,never,45,Nil, Aggressive,Poor,Low,Inactive,Moderate,Low,Addicted,Over Active,never
+11,F,6,4,Graduate,Graduate,Private,,N,Married,never,72%,never,35,Nil, Aggressive,Poor,Over-Confident,Inactive,Moderate,Low,Addicted,Over Active,never
+11,F,6,3,Post-Graduate,Graduate,Private,,N,Married,never,84%,Always,32,Good,Focused,Poor,Confident,Active,Good,Good,Moderate, Moderately Active,sometimes
+11,M,6,4,Post-Graduate,Graduate,Private,,N,Married,never,86%,Always,65,Good,Hyperactive,Average,Confident,Active,Good,Good,Moderate, Moderately Active,sometimes
+11,F,6,4,Graduate,Graduate,Private,,N,Married,sometimes,89%,Always,55,Moderate,Calm,Poor,Over-Confident, Moderately Active,Good,Good,Moderate, Moderately Active,sometimes
+11,M,6,4,Post-Graduate,Graduate,Private,,N,Married,never,90%,Always,74,Good,Focused,Good,Confident,Active,Good,Good,Moderate,Inactive,regularly
+11,F,6,4,Post-Graduate,Graduate,Private,,N,Married,never,92%,Always,54,Good,Focused,Poor,Confident,Active,Good,Good,Moderate, Moderately Active,sometimes
+9,M,3,4,Graduate,Graduate,Private,Self employed,Y,Married,Regularly,98%,Always,90,Good,Focussed,Excellent,Confident,Active,Good,Good,Moderate,Inactive,Sometimes
+9,M,3,4,Graduate,Graduate,Private,Self employed,N,Married,Regularly,99%,Always,90,Good,Focussed,Excellent,Confident,Active,Good,Good,Moderate,Inactive,Sometimes
+8,F,3,3,Post graduate,Post graduate,Government,Private,N,Married,Regularly,88%,Sometimes,75,Moderate,Calm,Good,Low,Moderately active,Moderate,Low,Moderate,Inactive,Never
+9,F,3,4,Graduate,Post graduate,Private,Private,N,Married,Regularly,86%,Always,80,Moderate,Calm,Good,Low,Moderately active,Moderate,Average,Moderate,Inactive,Never
+9,F,3,4,Graduate,Diploma,Private,Private,N,Married,Regularly,90%,Always,60,Good,Calm,Poor,Low,Active,Good,Average,Moderate,inactive,Regularly
+9,F,3,3,Diploma,Graduate,Private,Government,N,Married,Regularly,94%,Always,65,Good,Calm,Average,Low,Moderately active,Moderate,Low,No usage,Inactive,Regularly
+9,F,3,5,Post graduate,Diploma,Self employed,Self employed,N,Married,Sometimes,88%,Always ,62,Moderate,Calm,Average,Low,Inactive,Moderate,Low,No usage,Inactive,Regularly
+9,M,3,3,Post graduate,Post graduate,Self employed,Private,N,Married,Regularly,80%,Always ,75,Moderate,Focussed,Good,Confident,Active,Good,Low,Moderate,Inactive,Never
+9,M,3,3,Diploma,Diploma,Private,Self employed,N,Married,Sometimes,82%,Never,45,Nil,Hyperactive,Poor,Over Confident,Moderately active,Nil,Good,Addicted,Inactive,Never
+9,F,3,3,Graduate,Diploma,Private,Self employed,N,Married,Sometimes,95%,Always,63,Moderate,Calm,Average,Low,Inactive,Nil,Average,No usage ,Inactive,Never
+9,F,3,6,Graduate,Graduate,Private,Private,N,Married,Regularly,90%,Always,78,Moderate,Calm,Good,Low,Inactive,Nil,Good,no usage,inactive,Never
+8,M,3,3,Graduate,Graduate,Government,Government,N,Separated,Regularly,92%,Sometimes,80,Moderate,Hyperactive,Good,Confident,Active,Moderate,Good,Addicted,Inactive,Never
+9,M,3,3,Diploma,Post graduate,Government,Private,N,Married,Sometimes,84%,Never,74,Nil,Calm,Good,Low,Inactive,Nil,Low,Addicted,Inactive,Never
+9,M,3,4,Post graduate,Graduate,Private,Private,N,Married,Regularly,85%,Sometimes,60,Moderate,Hyperactive,Poor,Confident,Active,Moderate,Average,Addicted,Inactive,Sometimes
+9,M,3,5,Graduate ,Diploma,Private,Self employed,N,Married,Never,70%,Never,65,Nil,Hyperactive,Average,Low,Moderately active,Nil,Good,Addicted,Inactive,Never
+10,F,3,4,Diploma,Graduate,Self employed,Self employed,N,Married,Regularly,85%,Sometimes,66,Moderate,Calm,Average, Low,Active,Moderate,Low,Addicted,Inactive,Regularly
+9,M,3,3,Graduate,Post graduate,Government,Government,N,Married,Sometimes,80%,Sometimes,55,Moderate,Calm,Poor,Low,Moderately active,Moderate,Low,Moderate,Inactive,Never
+9,M,3,5,Diploma,Post graduate,Private,Government,N,Married,Sometimes,82%,Sometimes,90,Nil,Calm,Excellent,Low,Inactive,Nil,Low,Addicted,Inactive,Never
+8,M,3,5,Post graduate,Diploma,Self employed,Private,N,Married,Regularly,95%,Always,55,Good,Focussed,Poor,Over Confident,Active,Good,Excellent,Moderate,Inactive,Regularly
+9,M,3,5,Graduate,Diploma,Government,Self employed,Y,Married,Never,79%,Sometimes,53,Nil,Disturbed,Poor,Low,Inactive,Moderate,Low,No usage,Inactive,Never
+8,M,3,3,Graduate,Post graduate,Private,Self employed,N,Married,Sometimes,84%,Sometimes,60,Moderate,Aggressive,Poor,Confident,Inactive,Moderate,Good,Moderate,Inactive,Never
+10,M,3,4,Diploma,Graduate,Private,Government,N,Married,Never,50%,Never,71,Nil,Aggressive,Good,Over Confident,Moderately active,Nil,Low,Addicted,Inactive,Never
+9,M,3,4,Diploma,Graduate,Self employed,Private,N,Married,Sometimes,79%,Sometimes,66,Nil,Calm,Average,Low,Active,Nil,Low,Moderate,Inactive,Never
+9,F,3,3,Post graduate,Graduate,Government,Self employed,Y,Married,Regularly,94%,Always,60,Good,Focussed,Poor,Confident,Active,Good,Excellent,Moderate,Inactive,Regularly
+9,M,3,3,Graduate,Diploma,Government,Private,N,Married,Regularly,90%,Always,53,Moderate,Hyperactive,Poor,Over Confident,Moderately active,Good,Good,Addicted,Inactive,Sometimes
+9,F,3,4,Graduate ,Post graduate,Private,Private,N,Married,Regularly,86%,Sometimes,59,Moderate,Focussed,Poor,Low,Inactive,Moderate,Low,Moderate,Inactive,Never
+9,F,3,2,Diploma,Graduate,Self employed,Private,Y,Separated,Sometimes,70%,Sometimes,45,Nil,Calm,Poor,Low,Inactive,Nil,Good,Moderate,Inactive,Never
+8,F,3,3,Graduate,Diploma,Private,Self employed,N,Married,Regularly,88%,Always,70,Moderate,Calm,Average,Confident,Active,Good,Good,No usage,Inactive,Sometimes
+10,F,3,4,Post graduate,Diploma,Private,Government,N,Married,Regularly,80%,Always,75,Good,Focussed,Good,Confident,Moderately active,Good,Average,Moderate,Inactive,Sometimes
+8,F,3,4,Post graduate,Graduate,Government,Private,N,Married,Regularly,96%,Always,63,Moderate,Calm,Average,Confident,Moderately active,Good,Good,Moderate,Inactive,Sometimes
+8,M,3,3,Graduate,Graduate,Self employed,Self employed,N,Married,Regularly,90%,Always,66,Good,Focussed,Average,Confident,Moderately active,Good,Good,Moderate,Inactive,Sometimes
+9,F,3,3,Graduate,Post graduate,Government,Government,N,Married,Regularly,95%,Always,69,Good,Calm,Average,Confident,Active,Good,Excellent,Addicted,Inactive,Sometimes
+8,F,3,3,Diploma,Graduate,Private,Private,Y,Married,Never.,40%,Never,35,Nil,Calm,Poor,Low,Active,Nil,Low,Addicted,Inactive,Never
+9,M,3,3,Post graduate,Graduate,Private,Private,Y,Married,Sometimes,88%,Sometimes,49,Nil,Calm,Poor,Low,Active,Moderate,Good,Moderate,Inactive,Never
+8,F,3,5,Graduate,Diploma,Self employed,Government,N,Married,Regularly,98%,Always,73,Moderate,Calm,Good,Low,Active,Moderate,Average,Moderate,Inactive,Never
+9,F,3,3,Diploma,Post graduate,Self employed,Self employed,N,Married,Sometimes,96%,Always,63,Moderate,Calm,Average,Low,Inactive,Nil,Low,Moderate,Inactive,Never
+9,M,3,4,Graduate,Post graduate,Government,Government,N,Married,Regularly,82%,Always,60,Good,Hyperactive,Poor,Over Confident,inactive,Good,Excellent,Addicted,Inactive,Sometimes
+9,F,3,4,Post Graduate,Diploma,Private,Private,N,Married,Regularly,85%,Always,88,Good,Focussed,Excellent,Confident,Moderately active,Moderate,Good,No usage,Inactive,Sometimes
+9,F,3,3,Diploma,Graduate,Self employed,Private,N,Married,Regularly,79%,Always,70,Moderate,Calm,Average,Over Confident,Moderately active,Moderate,Low,Moderate,Inactive,Never
+9,F,3,3,Post graduate,Graduate,Private,Self employed,N,Married,Regularly,75%,Always,75,Good,Calm,Good,Confident,Active,Moderate,Average,Moderate,Inactive,Sometimes
+8,F,3,5,Diploma,Graduate,Government,Self employed,Y,Married,Regularly,92%,Always,71,Moderate,Calm,Good,Low,Inactive,Nil,Average,Moderate,Inactive,Sometimes
+9,M,3,3,Graduate,Graduate,Government,Private,N,Married,Regularly,82%,Always,66,Moderate,Calm,Average,Low,Moderately active,Moderate,Good,No usage,Inactive,Never
+9,F,3,4,Post graduate,Graduate,Private,Government,Y,Married,Never,80%,Never,44,Nil,Disturbed,Poor,Low,Active,Nil,Low,No usage,Inactive,Never
+9,F,3,3,Diploma,Post graduate,Self employed,Private,N,Married,Regularly,91%,Always,85,Good,Focussed,Excellent,Confident,Active,Good,Excellent,Moderate,Inactive,Regularly
+9,M,3,3,Diploma ,Graduate,Government ,Self employed ,Y,Married ,Never ,83%,Never ,39,Nil,Disturbed ,Poor,Low,Inactive ,Nil,Low,No usage,Inactive ,Never 
+9,F,2,4,Post Graduate ,Post Graduate ,Self- Employed,Self- Employed,N,Married,Sometimes,80%,Sometimes ,80,Moderate,Focused,Good,Confident,Active,Good,Good ,Moderate,Moderately Active,Regularly 
+9,M,2,4,Post Graduate ,Graduate,Private,Private,N,Married,Sometimes,100%,Never,40,Nil,Disturbed,Poor,Low,Moderately Active,Moderate,Average ,Moderate,Moderately Active,Sometimes 
+9,F,2,3,Diploma,Post Graduate ,Government ,Private,N,Married,Regularly ,100%,Always,95,Good,Focused,Excellent,Confident,Active,Good,Excellent ,Moderate,Moderately Active,Regularly 
+10,F,2,4,Post Graduate ,Graduate,Government ,Private,N,Married,Never,70%,Always,85,Moderate,Calm,Excellent,Low,Inactive ,Moderate,low,Moderate,Moderately Active,Sometimes 
+9,F,2,3,Diploma,Post Graduate ,Private,Private,Y,Married,Sometimes,90,Always,86,Good,Focused,Excellent,Confident,Active,Good,Excellent ,Moderate,Moderately Active,Regularly 
+9,M,2,4,Diploma,Diploma,Government ,Government,N,Married,Sometimes,90%,Always,96,Good,Focused,Excellent,Confident,Active,Good,Excellent ,No Usage,Inactive ,Regularly 
+8,F,2,3,Post Graduate ,Graduate,Private,Private,N,Married,Regularly ,98%,Always,75,Good,Focused,Good,Confident,Active,Good,Good ,Moderate,Moderately Active,Regularly 
+9,M,2,4,Diploma,Graduate,Government ,Private,N,Married,Regularly ,95%,Sometimes ,76,Moderate,Focused,Good,Confident,Active,Good,Good ,Moderate,Moderately Active,Regularly 
+9,F,2,3,Post Graduate ,Graduate,Private,Private,N,Married,Sometimes,70%,Never,55,Nil,Focused,Poor,Confident,Moderately Active,Moderate,Good ,Addicted,Over Active,Regularly 
+10,M,2,3,Diploma,Diploma,Government ,Government,N,Married,Regularly ,90%,Sometimes ,74,Moderate,Hyperactive,Good,Over Confident ,Active,Good,Excellent ,Addicted,Moderately Active,Regularly 
+10,M,2,3,Graduate,High School,Self- Employed,Self- Employed,N,Married,Regularly ,50%,Never,35,Nil,Focused,Poor,Low,Moderately Active,Moderate,low,Addicted,Moderately Active,Sometimes 
+9,M,2,3,Diploma,Graduate,Private,Private,N,Married,Sometimes,60%,Sometimes ,37,Moderate,Focused,Poor,Low,Moderately Active,Moderate,Average ,Moderate,Moderately Active,Regularly 
+10,F,2,4,Diploma,Diploma,Private,Private,N,Married,Sometimes,80%,Sometimes ,55,Moderate,Focused,Poor,Confident,Active,Good,Average ,Addicted,Moderately Active,Regularly 
+8,M,2,4,Graduate,Graduate,Government ,Private,N,Married,Sometimes,85%,Sometimes ,75,Good,Focused,Good,Confident,Active,Good,Good ,Moderate,Moderately Active,Regularly 
+9,F,2,3,Graduate,Graduate,Private,Private,N,Married,Sometimes,90%,Sometimes ,65,Moderate,Focused,Average,Confident,Active,Moderate,Average ,Addicted,Moderately Active,Regularly 
+9,F,2,4,Graduate,Post Graduate ,Self- Employed,Private,N,Married,Sometimes,85%,Sometimes ,86,Good,Focused,Excellent,Confident,Active,Good,Good ,Moderate,Moderately Active,Regularly 
+9,M,2,3,Post Graduate ,Post Graduate ,Private,Private,Y,Married,Never,50%,Never,30,Moderate,Focused,Poor,Low,Inactive,Good,low,Addicted,Moderately Active,Sometimes 
+8,F,2,3,Post Graduate ,Post Graduate ,Private,Private,N,Married,Regularly ,100%,Always,98,Good,Focused,Excellent,Confident,Active,Good,Excellent ,No Usage,Moderately Active,Regularly 
+8,F,2,3,Post Graduate ,Post Graduate ,Private,Self- Employed,N,Married,Regularly ,99%,Always,94,Good,Focused,Excellent,Over Confident ,Active,Good,Excellent ,Moderate,Moderately Active,Regularly 
+10,M,2,4,Post Graduate ,Graduate,Private,Self- Employed,N,Married,Regularly ,85%,Sometimes ,54,Moderate,Focused,Poor,Confident,Active,Moderate,Average ,Addicted,Over Active,Regularly 
+9,M,2,3,Diploma,Post Graduate ,Government ,Private,N,Married,Regularly ,88%,Always,86,Good,Focused,Excellent,Confident,Active,Good,Excellent ,Moderate,Inactive ,Regularly 
+10,M,2,3,Diploma,Diploma,Private,Private,N,Married,Sometimes,85%,Always,87,Good,Focused,Excellent,Confident,Active,Good,Excellent ,Moderate,Inactive ,Regularly 
+10,M,2,3,Diploma,Post Graduate ,Private,Private,N,Married,Regularly ,99%,Always,94,Good,Focused,Excellent,Confident,Active,Good,Excellent ,Moderate,Moderately Active,Regularly 
+9,F,2,3,Graduate,Post Graduate ,Self- Employed,Private,N,Married,Regularly ,95%,Always,80,Good,Hyperactive,Good,Over Confident ,Active,Moderate,Good ,Moderate,Moderately Active,Regularly 
+9,F,2,4,Post Graduate ,Post Graduate ,Private,Private,N,Married,Regularly ,100%,Sometimes ,65,Moderate,Hyperactive,Average,Confident,Active,Good,Average ,Moderate,Moderately Active,Regularly 
+9,F,2,3,Post Graduate ,Post Graduate ,Private,Self- Employed,N,Married,Regularly ,98%,Sometimes ,69,Good,Focused,Average,Confident,Active,Good,Good ,Addicted,Moderately Active,Regularly 
+10,M,2,3,Post Graduate ,Graduate,Self- Employed,Private,N,Married,Sometimes,95%,Sometimes ,50,Good,calm,Poor,Low,Inactive ,Moderate,Good ,Moderate,Inactive ,Sometimes 
+8,F,2,3,Post Graduate ,Graduate,Private,Private,N,Married,Sometimes,40%,Always,30,Moderate,calm,Poor,Confident,Inactive,Nil,Average ,Moderate,Moderately Active,Sometimes 
+8,F,2,3,Diploma,Post Graduate ,Private,Private,Y,Married,Never,45%,Sometimes ,64,Moderate,calm,Average,Low,Inactive,Nil,low,Moderate,Inactive ,Never
+10,M,2,3,Post Graduate ,Post Graduate ,Private,Private,N,Married,Sometimes,95%,Sometimes ,63,Moderate,Hyperactive,Average,Confident,Active,Good,Good ,Moderate,Moderately Active,Regularly 
+8,F,2,3,Graduate,Graduate,Private,Private,N,Married,Sometimes,100%,Always,62,Moderate,Focused,Average,Confident,Active,Good,Average ,Moderate,Moderately Active,Regularly 
+9,M,2,3,Diploma,Post Graduate ,Government ,Government,N,Married,Regularly ,95%,Always,89,Good,Focused,Excellent,Over Confident ,Active,Good,Excellent ,Moderate,Moderately Active,Regularly 
+8,M,2,3,Graduate,Graduate,Private,Private,N,Married,Regularly ,98%,Sometimes ,61,Moderate,Hyperactive,Average,Confident,Active,Moderate,Average ,Addicted,Moderately Active,Regularly 
+10,F,2,3,Post Graduate ,Post Graduate ,Private,Private,Y,Married,Regularly ,90%,Sometimes ,60,Moderate,Focused,Poor,Confident,Moderately Active,Moderate,Average ,Moderate,Over Active,Regularly 
+9,F,2,3,Graduate,Graduate,Private,Private,N,Married,Regularly ,95%,Never,34,Nil,Hyperactive,Poor,Confident,Moderately Active,Nil,low,Addicted,Moderately Active,Regularly 
+9,M,2,3,Post Graduate ,Post Graduate ,Government ,Government,N,Married,Regularly ,95%,Always,87,Good,Focused,Excellent,Confident,Active,Good,Excellent ,No Usage,Moderately Active,Regularly 
+9,M,2,3,Graduate,High School,Private,Private,N,Married,Never,85%,Never,20,Nil,Disturbed ,Poor,Low,Inactive ,Nil,GPs,Addicted,Moderately Active,Never
+8,M,2,3,Graduate,Graduate,Self- Employed,Private,N,Married,Sometimes,90%,Sometimes ,84,Moderate,Focused,Excellent,Confident,Inactive ,Moderate,Average ,Addicted,Moderately Active,Regularly 
+8,M,2,3,Graduate,Graduate,Self- Employed,Private,N,Married,Regularly ,98%,Never,30,Nil,Hyperactive,Poor,Over Confident ,Active,Nil,Gps,Addicted,Moderately Active,Regularly 
+8,F,3,4,Graduate,Graduate,Service,Service,N,Married,Sometimes,87%,Always,89,Good,Focused,Excellent,Confident,Moderately active,Good,Good,Moderate,Moderately active,Regularly
+8,F,3,4,Graduate,Graduate,Service,Service,N,Married,Sometimes,86%,Always,83,Good,Focused,Excellent,Confident,Moderately active,Moderate,Good,Moderate,Moderately active,Never
+8,F,3,3,Graduate,Graduate,Service,Home maker,N,Married,Sometimes,75%,Sometimes,79,Moderate,Active,Good,Confident,Active,Good,Average,Addicted,Over active,Sometimes
+8,M,3,3,Post graduate,Graduate,Service,Home maker,N,Married,Regular,90%,Always,93,Moderate,Disturbed,Excellent,Over confident,Active,Good,Excellent,Moderate,Moderately active,Sometimes
+8,M,3,3,Graduate,Graduate,Service,Home maker,N,Married,Sometimes,68%,Sometimes,64,Nil,Disturbed,Average,Low,Active,Moderate,Low,Addicted,Over active,Never
+8,F,3,3,Graduate,Graduate,Business,Business,N,Married,Sometimes,86%,Always,89,Good,Focused,Excellent,Confident,Active,Good,Average,Moderate,Moderately active,Regularly
+8,F,3,4,Graduate,Graduate,Business,Home maker,N,Married,Sometimes,88%,Always,65,Moderate,Focused,Average,Confident,Moderately active,Moderate,Average,Moderate,Moderately active,Never
+8,M,3,4,Graduate,Graduate,Service,Home maker,N,Married,Sometimes,74%,Always,94,Good,Focused,Excellent,Confident,Active,Good,Excellent,Moderate,Over active,Never
+8,F,3,4,Graduate,Graduate,Service,Home maker,N,Married,Sometimes,95%,Always,90,Good,Focused,Excellent,Confident,Active,Good,Excellent,No usage,Moderately active,Sometimes
+8,F,3,4,Under graduate,Under graduate,Business,Home maker,N,Married,Sometimes,64%,Very poor,38,Nil,Disturbed,Poor,Over confident,Active,Good,Low,Addicted,Over active,Never
+8,M,3,3,Graduate,Graduate,Business,Home maker,N,Married,Sometimes,65%,Sometimes,62,Moderate,Hyperactive,Average,Over confident,Active,Good,Average,Addicted,Over active,Sometimes
+8,F,3,4,Graduate,Graduate,Service,Home maker,N,Married,Sometimes,86%,Always,82,Good,Focused,Excellent,Confident,Moderately active,Moderate,Good,Moderate,Moderately active,Never
+8,F,3,3,Graduate,Graduate,Service,Home maker,N,Married,Regular,90%,Always,78,Good,Focused,Good,Confident,Moderately active,Moderate,Excellent,No usage,Moderately active,Never
+8,F,3,3,Under graduate,Under graduate,Business,Home maker,N,Married,Regular,95%,Always,67,Good,Focused,Average,Confident,Active,Good,Good,Moderate,Moderately active,Sometimes
+8,M,3,3,Under graduate,Under graduate,Service,Home maker,N,Married,Sometimes,78%,Sometimes,68,Moderate,Disturbed,Average,Low,Moderately active,Moderate,Average,Addicted,Moderately active,Never
+8,F,3,4,Graduate,Graduate,Service,Home maker,N,Married,Sometimes,83%,Always,87,Good,Focused,Excellent,Confident,Moderately active,Moderate,Good,Moderate,Moderately active,Sometimes
+8,M,3,4,Post graduate,Graduate,Service,Service,N,Married,Sometimes,84%,Always,87,Good,Focused,Excellent,Confident,Active,Good,Good,Moderate,Moderately active,Sometimes
+8,F,3,3,Graduate,Graduate,Service,Home maker,N,Married,Sometimes,72%,Sometimes,75,Moderate,Disturbed,Good,Over confident,Active,Good,Average,Moderate,Moderately active,Regularly
+8,F,3,4,Graduate,Graduate,Business,Service,N,Married,Regular,89%,Always,90,Good,Focused,Excellent,Confident,Active,Good,Good,Moderate,Moderately active,Regularly
+8,M,3,3,Graduate,Graduate,Service,Business,N,Married,Sometimes,79%,Always,63,Moderate,Hyperactive,Average,Over confident,Active,Good,Average,Addicted,Over active,Regularly
+8,M,3,4,Graduate,Graduate,Business,Home maker,N,Married,Sometimes,84%,Always,74,Moderate,Focused,Good,Confident,Active,Good,Good,Moderate,Moderately active,Never
+8,M,3,3,Graduate,Graduate,Service,Service,N,Married,Very poor,89%,Always,85,Good,Focused,Excellent,Low,Moderately active,Moderate,Low,Addicted,Over active,Never
+8,M,3,3,Graduate,Graduate,Service,Home maker,N,Married,Sometimes,71%,Very poor,40,Nil,Disturbed,Poor,Over confident,Active,Moderate,Average,Addicted,Over active,Sometimes
+8,F,3,4,Under graduate,Under graduate,Service,Home maker,N,Married,Sometimes,73%,Sometimes,37,Moderate,Sleepy,Poor,Low,Moderately active,Nil,Low,Moderate,Moderately active,Never
+8,F,3,3,Graduate,Graduate,Service,Service,N,Married,Regular,86%,Always,72,Good,Focused,Good,Confident,Active,Good,Good,Moderate,Moderately active,Regularly
+8,F,3,4,Post graduate,Graduate,Service,Home maker,N,Married,Sometimes,64%,Sometimes,63,Moderate,Disturbed,Average,Confident,Active,Good,Average,Addicted,Over active,Regularly
+8,M,3,4,Graduate,Graduate,Service,Home maker,N,Married,Regular,92%,Always,95,Good,Focused,Excellent,Confident,Active,Good,Excellent,No usage,Moderately active,Sometimes
+8,M,3,4,Graduate,Graduate,Service,Business,N,Married,Regular,99%,Always,98,Good,Hyperactive,Excellent,Over confident,Active,Good,Excellent,Addicted,Over active,Regularly
+8,M,3,4,Graduate,Graduate,Service,Service,N,Married,Regular,95%,Always,79,Moderate,Hyperactive,Good,Over confident,Active,Good,Good,Moderate,Moderately active,Sometimes
+8,F,3,4,Graduate,Graduate,Service,Business,N,Married,Sometimes,81%,Sometimes,54,Moderate,Disturbed,Poor,Confident,Active,Good,Good,Addicted,Over active,Sometimes
+8,F,3,3,Graduate,Graduate,Service,Home maker,N,Married,Regular,80%,Always,86,Good,Focused,Excellent,Confident,Active,Good,Good,Moderate,Moderately active,Sometimes
+8,M,3,3,Graduate,Graduate,Service,Service,N,Married,Sometimes,78%,Always,69,Moderate,Disturbed,Average,Confident,Active,Good,Good,Moderate,Moderately active,Sometimes
+8,F,3,3,Graduate,Graduate,Service,Home maker,N,Married,Sometimes,60%,Always,56,Good,Active,Poor,Confident,Active,Moderate,Average,Moderate,Inactive,Never
+8,F,3,4,Graduate,Under graduate,Service,Home maker,N,Married,Sometimes,67%,Always,67,Moderate,Disturbed,Average,Low,Moderately active,Moderate,Average,Moderate,Inactive,Never
+8,M,3,4,Under graduate,Under graduate,Business,Home maker,N,Married,Regular,79%,Always,95,Good,Hyperactive,Excellent,Confident,Active,Good,Excellent,Moderate,Moderately active,Sometimes
+8,F,3,3,Graduate,Graduate,Service,Service,N,Married,Sometimes,81%,Always,90,Good,Focused,Excellent,Confident,Moderately active,Moderate,Good,No usage,Inactive,Never
+8,F,3,3,Under graduate,Under graduate,Business,Home maker,N,Married,Sometimes,60%,Very poor,37,Nil,Disturbed,Poor,Over confident,Active,Nil,Low,Addicted,Over active,Never
+8,F,3,3,Under graduate,Graduate,Business,Service,N,Married,Sometimes,78%,Always,57,Moderate,Active,Poor,Over confident,Active,Good,Average,Addicted,Over active,Sometimes
+8,M,3,4,Graduate,Under graduate,Service,Home maker,N,Married,Regular,90%,Always,79,Good,Focused,Good,Confident,Active,Good,Good,Moderate,Moderately active,Sometimes
+8,F,3,4,Graduate,Graduate,Business,Business,N,Married,Very poor,60%,Sometimes,36,Nil,Disturbed,Poor,Over confident,Active,Good,Average,Addicted,Over active,Regularly
+8,M,3,4,Graduate,Graduate,Service,Service,N,Married,Regular,90%,Always,78,Moderate,Hyperactive,Good,Over confident,Active,Good,Good,Moderate,Moderately active,Sometimes
+8,F,3,3,Graduate,Graduate,Service,Home maker,N,Married,Sometimes,76%,Sometimes,40,Nil,Sleepy,Poor,Low,Moderately active,Nil,Low,Addicted,Inactive,Never
+8,F,3,3,Graduate,Graduate,Service,Business,N,Married,Regular,97%,Always,94,Good,Focused,Excellent,Confident,Active,Good,Good,Moderate,Moderately active,Sometimes
+7,MALE,2,3,Graduate,Graduate,private,Private,No,Married,Sometimes ,97%,always,62,Moderate ,Calm,Average,confident,active,good,average ,no usage,inactive ,regularly 
+7,MALE,2,4,Graduate,Graduate,private,Private,No,Married,never,84%,always,65,Moderate ,focussed ,Average,confident,active,good,average ,moderate ,inactive ,regularly 
+6,MALE,2,3,Graduate,Graduate,private,Private,No,Married,Sometimes ,88%,always,68,moderate ,focussed ,Average,confident,active,good,average ,moderate ,inactive ,regularly 
+7,MALE,2,3,Graduate,Graduate,private,Private,No,Married,Sometimes ,89%,always,69,moderate ,focussed ,Average,confident,active,good,average ,moderate ,inactive ,regularly 
+7,FEMALE ,2,3,Graduate,Graduate,private,Private,No,Married,regularly ,96%,always,79,Moderate ,focussed ,Good,confident,active,good,average ,moderate ,inactive ,regularly 
+7,MALE,2,3,Graduate,Graduate,private,Private,No,Married,regularly ,84%,always,54,Moderate ,focused ,Poor,confident,active,good,average ,moderate ,inactive ,regularly 
+8,MALE,2,3,Graduate,Graduate,private,Private,No,Married,never,84%,sometimes,52,Moderate ,calm,Poor,confident,active,good,average ,moderate ,inactive ,regularly 
+7,FEMALE ,2,3,Graduate,Graduate,private,Private,No,Married,regularly ,66%,always,97,good,focussed ,Excellent,confident,active,good,average ,moderate ,inactive ,regularly 
+7,MALE,2,3,Post Graduate,Post graduate,government ,government ,No,Married,Sometimes ,51%,always,86,good,focussed ,Excellent,confident,active,good,average ,moderate ,inactive ,regularly 
+8,FEMALE ,2,5,Graduate,Graduate,private,Private,No,Married,Sometimes ,92%,always,94,good,focussed ,Excellent,confident,active,good,average ,moderate ,inactive ,regularly 
+7,FEMALE ,2,3,Graduate,Graduate,private,House wife,No,Married,Sometimes ,97%,always,98,good,focussed ,Excellent,confident,active,good,average ,moderate ,inactive ,regularly 
+7,MALE,2,5,Graduate,Graduate,private,House wife,No,Married,Sometimes ,82%,always,61,good,calm,Average,confident,active,good,average ,moderate ,inactive ,regularly 
+8,FEMALE ,2,3,Post Graduate,Post graduate,private,House wife,No,Married,Sometimes ,88%,always,81,good,focussed ,Excellent,confident,active,good,good,moderate ,inactive ,regularly 
+7,MALE,2,4,Graduate,Post graduate,self employed ,House wife,No,Married,Sometimes ,48%,always,49,good,calm,Poor,confident,active,good,good,moderate ,inactive ,regularly 
+7,FEMALE ,2,3,Graduate,Post graduate,self employed ,House wife,No,Married,Sometimes ,80%,always,71,good,focussed ,Good,confident,active,good,good,moderate ,inactive ,regularly 
+7,MALE,2,3,Post Graduate,Graduate,self employed ,House wife,No,Married,Sometimes ,94%,always,93,good,focussed ,Excellent,confident,active,good,good,moderate ,inactive ,regularly 
+7,FEMALE ,2,3,Graduate,Post graduate,self employed ,House wife,No,Married,never,97%,always,94,good,focussed ,Excellent,confident,active,good,good,moderate ,inactive ,regularly 
+7,FEMALE ,2,3,Post Graduate,Graduate,self employed ,House wife,No,Married,regularly ,92%,always,71,good,focussed ,Good,confident,active,good,good,moderate ,inactive ,regularly 
+7,FEMALE ,2,3,Graduate,Graduate,self employed ,House wife,No,Married,Sometimes ,70%,always,63,good,focussed ,Average,confident,active,good,good,moderate ,inactive ,regularly 
+7,FEMALE ,2,3,Graduate,Graduate,self employed ,House wife,No,Married,never,65%,always,41,good,focussed ,Poor,confident,active,good,good,moderate ,inactive ,regularly 
+8,MALE,2,3,Post Graduate,Graduate,self employed ,government ,No,Married,regularly ,89%,always,94,good,focussed ,Excellent,confident,active,good,good,moderate ,inactive ,regularly 
+8,MALE,2,3,Graduate,Graduate,self employed ,government ,No,Married,regularly ,85%,always,59,good,focussed ,Poor,confident,active,good,good,moderate ,inactive ,regularly 
+7,MALE,2,3,Post Graduate,Post graduate,self employed ,private,No,Married,regularly ,77%,sometimes,58,good,focussed ,Poor,confident,active,good,good,moderate ,inactive ,regularly 
+7,MALE,2,3,Graduate,Graduate,self employed ,private,No,Married,regularly ,89%,always,95,good,focussed ,Excellent,confident,active,good,good,moderate ,inactive ,regularly 
+6,MALE,2,3,Graduate,Graduate,self employed ,private,No,Married,regularly ,85%,sometimes,34,good,calm,Poor,confident,active,moderate,average ,no usage,inactive ,sometimes
+8,MALE,2,3,Graduate,Graduate,self employed ,private,No,Married,regularly ,85%,sometimes,18,very poor,calm,Poor,low,active,good,good,no usage,inactive ,sometimes
+7,FEMALE ,2,3,Graduate,Graduate,government ,private,No,Married,regularly ,52%,always,22,Moderate ,calm,Poor,confident,active,good,good,moderate ,inactive ,regularly 
+7,MALE,2,3,Graduate,Graduate,private,private,No,Married,regularly ,98%,always,91,good,focussed ,Excellent,confident,active,good,good,moderate ,inactive ,regularly 
+7,MALE,2,3,Graduate,Graduate,government ,private,No,Married,regularly ,86%,never,16,very poor,calm,Poor,low,active,moderate,average ,no usage,inactive ,never
+7,MALE,2,3,Graduate,Graduate,self employed ,private,No,Married,regularly ,86%,always,57,good,focussed ,Poor,confident,active,good,good,moderate ,inactive ,regularly 
+7,MALE,2,3,Graduate,Graduate,self employed ,self employed ,No,Married,sometimes ,40%,never,11,very poor,focussed ,Poor,confident,active,good,good,moderate ,inactive ,regularly 
+8,MALE,2,4,Graduate,Graduate,self employed ,self employed ,No,Married,sometimes ,89%,never,15,very poor,Calm,Poor,low,active,moderate,average ,no usage,inactive ,sometimes
+7,MALE,2,3,Graduate,Graduate,self employed ,self employed ,No,Married,sometimes ,98%,always,78,good,focussed ,Good,confident,active,good,good,moderate ,inactive ,regularly 
+7,FEMALE ,2,3,Graduate,Graduate,Private,government ,No,Married,sometimes ,99%,always,90,good,focussed ,Excellent,confident,active,good,good,moderate ,inactive ,regularly 
+7,MALE,2,5,Graduate,Graduate,Private,House wife,No,Married,sometimes ,91%,always,49,Moderate ,calm,Poor,confident,active,good,good,no usage,inactive ,regularly 
+8,FEMALE ,2,3,Post Graduate,Post graduate,Private,House wife,No,Married,sometimes ,98%,always,88,good,focussed ,Excellent,confident,active,good,good,moderate ,inactive ,regularly 
+7,FEMALE ,2,3,Graduate,Graduate,Private,government ,No,Married,sometimes ,93%,always,83,good,focussed ,Excellent,confident,active,good,good,moderate ,inactive ,regularly 

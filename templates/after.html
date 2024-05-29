@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction</title>
+</head>
+<body bgcolor="#d4a3ae">
+    <center>
+        <h1>
+            PREDICTION
+        </h1><br>
+    </center>
+
+<center>
+    {%if data == 0%}
+    <h2>
+        Average Student
+    </h2>
+    <img src='static\average.jpg' width="200" height="200" alt="Average student">
+    <center>
+        <h3>
+            You're destined for great things.<br>
+            "You can do" attitude is infectious.<br>
+            You're self-motivated. You inspire<br>
+            others.
+        </h3>
+    </center>
+
+    {%elif data == 1%}
+    <h2>
+        Excellent Student
+    </h2>
+    <img src='static\excellent.jpg' width="200" height="200" alt="Excellent student">
+    <center>
+    <h3>You've been an ideal student. Your desire to learn and grow<br>
+    means a lot to me as a teacher. I'm very glad to have<br>
+    you in my class.
+</h3>
+    </center>
+    
+
+    {%elif data == 2%}
+    <h2>
+        Good Student
+    </h2>
+    <img src='static\good.jpg' width="200" height="200" alt="Good Student">
+    <center>
+        <h3>
+            It's clear that you take pride in your work. The<br>
+            confidence you have in your academics is impressive.<br>
+            Self-confidence is a great trait to have.
+        </h3>
+    </center>
+
+    {%else%}
+    <h2>
+        Poor Student
+    </h2>
+    <img src='static\belowaverage.jpg' width="200" height="200"   alt="Poor student">
+    <center>
+        <h3>
+            The test of our progress is not whether we add more<br>
+            to the abudance of those who have much; it is whether<br>
+            we provide enough for those who have too little.<br>
+            You can be better at any time.
+        </h3>
+    </center>
+    
+
+    {%endif%}
+</center>
+
+<hr>
+<br>
+
+<center>
+    <a href='/'>Home Page</a>
+</center>
+
+</body>
+</html>
