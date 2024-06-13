@@ -27,17 +27,17 @@ This project explores the application of machine learning techniques in evaluati
    git clone https://github.com/yourusername/your-repo-name.git
    ```
 2. **Navigate to the project directory**:
-  ```sh
-   cd your-repo-name
+   ```sh
+      cd your-repo-name
    ```
 3. **Install the required dependencies**:
-```sh
-  pip install -r requirements.txt
-```
+   ```sh
+     pip install -r requirements.txt
+   ```
 5. **Run the main python file**:
-```sh
-  python main.py
-```
+   ```sh
+     python main.py
+   ```
 6. **To Run the application file**:
 Open Anaconda Navigator.
 Create a new Environment and Run.
