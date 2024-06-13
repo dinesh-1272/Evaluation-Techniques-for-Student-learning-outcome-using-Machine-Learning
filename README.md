@@ -26,13 +26,10 @@ This project explores the application of machine learning techniques in evaluati
    ```sh
    git clone https://github.com/yourusername/your-repo-name.git
 2. **Navigate to the project directory**:
-  ```sh
   cd your-repo-name
 3. **Install the required dependencies**:
-  ```sh
   pip install -r requirements.txt
 4. **Run the application**:
-  ```sh
   python main.py
 
 ## Usage
