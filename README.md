@@ -42,9 +42,9 @@ This project explores the application of machine learning techniques in evaluati
 Open Anaconda Navigator.
 Create a new Environment and Run.
 In the Command prompt, change the directory to you file location
-```sh
+   ```sh
      flask run
-``` 
+   ``` 
 
 ## Usage
 1. **Data Collection**: Information is gathered from various sources and stored in a format suitable for machine learning models.
