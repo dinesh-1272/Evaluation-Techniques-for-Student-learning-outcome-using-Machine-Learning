@@ -10,7 +10,7 @@ This project explores the application of machine learning techniques in evaluati
 
 ## Project Structure
 - **Introduction**: Overview of the project, objectives, problem statement, and scope.
-- **System Study**: Examination of the existing system and proposed system.
+- **System Study**: Examining the existing and proposed systems.
 - **Software Project Plan**: Business and architecture diagrams.
 - **System Analysis**: Data flow diagrams, UML diagrams, class diagrams, sequence diagrams, and collaboration diagrams.
 - **System Requirements & Specifications**: Hardware and software requirements, front-end and back-end specifications.
@@ -25,12 +25,26 @@ This project explores the application of machine learning techniques in evaluati
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/yourusername/your-repo-name.git
+   ```
 2. **Navigate to the project directory**:
-  cd your-repo-name
+  ```sh
+   cd your-repo-name
+   ```
 3. **Install the required dependencies**:
+```sh
   pip install -r requirements.txt
-4. **Run the application**:
+```
+5. **Run the main python file**:
+```sh
   python main.py
+```
+6. **To Run the application file**:
+Open Anaconda Navigator.
+Create a new Environment and Run.
+In the Command prompt, change the directory to you file location
+```sh
+     flask run
+``` 
 
 ## Usage
 1. **Data Collection**: Information is gathered from various sources and stored in a format suitable for machine learning models.
@@ -41,7 +55,7 @@ This project explores the application of machine learning techniques in evaluati
 
 ## Technologies Used
 - Python
-- Machine Learning Algorithms (AdaBoost, CatBoost, Decison Tree)
+- Machine Learning Algorithms (AdaBoost, CatBoost, Decision Tree)
 - Data Preprocessing Techniques
 - Feature Extraction Methods
 
@@ -50,5 +64,5 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## Acknowledgements
 - Special thanks to Dr. D. R. Jiji Mol for guidance and support.
-- Gratitude to all the staff members of the Department of Computer Science for their encouragement.
+- Gratitude to all the Department of Computer Science staff members for their encouragement.
 - Thanks to my parents for their support throughout the project.
